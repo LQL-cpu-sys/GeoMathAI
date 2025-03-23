@@ -18,7 +18,7 @@
 pip install openai dashscope pillow numpy transformers datasets streamlit
 ```
 
-使用方法
+### 使用方法
 1.克隆项目：
 ```
 git clone https://github.com/yourusername/GeoMathAI.git

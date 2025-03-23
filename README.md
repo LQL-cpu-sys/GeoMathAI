@@ -47,6 +47,7 @@ streamlit run app.py
 ```
 
 ## 项目结构
+```
 GeoMathAI/
 ├── data/                  # 数据文件夹
 │   ├── GeoQA+/            # GeoQA+ 数据集
@@ -67,3 +68,4 @@ GeoMathAI/
 ├── logo.png               # 项目 Logo
 ├── README.md              # 项目说明文件
 └── temp_image.png         # 处理问题时的临时图像文件
+```

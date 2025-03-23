@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u25b3ABC\u4e2d,\u2220B=90\u00b0,AB=1,BC=2,\u5219\\cosA=()\u9009\u9879\uff1a['\\\\frac{\u221a{5}}{5}', '\\\\frac{\u221a{3}}{3}', '\\\\frac{2\u221a{5}}{5}', '\\\\frac{1}{2}']",
+    "decision": "",
+    "answer": "\u89e3:\u7531\u52fe\u80a1\u5b9a\u7406,\u5f97\nAC=\u221a{AB^{2}+BC^{2}}=\u221a{5}\uff0e\n\\cosA=\\frac{AB}{AC}=\\frac{1}{\u221a{5}}=\\frac{\u221a{5}}{5},\n\u6545\u9009:A\uff0e",
+    "ans_choice": "\\frac{\\sqrt{5}}{5}"
+}

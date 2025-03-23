@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u9510\u89d2\u03b1\u7684\u9876\u70b9\u5728\u539f\u70b9,\u59cb\u8fb9\u5728x\u8f74\u7684\u6b63\u534a\u8f74\u4e0a,\u7ec8\u8fb9\u4e0a\u4e00\u70b9P\u7684\u5750\u6807\u4e3a(2,3),\u90a3\u4e48tan\u03b1\u7684\u503c\u7b49\u4e8e()\u9009\u9879\uff1a['\\\\frac{2}{3}', '\\\\frac{3}{2}', '\\\\frac{2\u221a{13}}{13}', '\\\\frac{3\u221a{13}}{13}']",
+    "decision": "",
+    "answer": "\u89e3:tan\u03b1=\\frac{3}{2}\uff0e\u6545\u9009:B\uff0e",
+    "ans_choice": "\\frac{3}{2}"
+}

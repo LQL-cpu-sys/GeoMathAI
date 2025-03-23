@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728\u5e73\u884c\u56db\u8fb9\u5f62ABCD\u4e2d,AC\u4e0eBD\u76f8\u4ea4\u4e8e\u70b9O,AB\u22a5AC,\u2220DAC=45\u00b0,AC=2,\u5219BD\u7684\u957f\u4e3a()\u9009\u9879\uff1a['6', '2\u221a{5}', '\u221a{5}', '3']",
+    "decision": "",
+    "answer": "\u89e3:\u2235AB\u22a5AC,\u2234\u2220BAC=90\u00b0,\u2235\u56db\u8fb9\u5f62ABCD\u662f\u5e73\u884c\u56db\u8fb9\u5f62,AC=2,\u2234AD\u2225BC,AO=\\frac{1}{2}AC=1,BD=2BO,\u2235\u2220DAC=45\u00b0,\u2234\u2220ACB=\u2220DAC=45\u00b0,\u2234\u2220ABC=180\u00b0-90\u00b0-45\u00b0=45\u00b0,\u2234\u2220ABC=\u2220ACB,\u2234AB=AC=2,\u7531\u52fe\u80a1\u5b9a\u7406\u5f97:BO=\u221a{2\u00b2+1\u00b2}=\u221a{5},\u2234BD=2BO=2\u221a{5},\u6545\u9009:B\uff0e",
+    "ans_choice": "2\\sqrt{5}"
+}

@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728\u77e9\u5f62ABCD\u4e2d,AB=3,BC=5,\u70b9E\u5728\u5bf9\u89d2\u7ebfAC\u4e0a,\u8fde\u63a5BE,\u4f5cEF\u22a5BE,\u5782\u8db3\u4e3aE,\u76f4\u7ebfEF\u4ea4\u7ebf\u6bb5DC\u4e8e\u70b9F,\u5219\\frac{EF}{BE}=()\u9009\u9879\uff1a['\\\\frac{4}{3}', '\\\\frac{5}{3}', '\\\\frac{3}{4}', '\\\\frac{3}{5}']",
+    "decision": "",
+    "answer": "\u89e3:\u5982\u56fe,\u8fde\u63a5BF,\u53d6BF\u7684\u4e2d\u70b9O,\u8fde\u63a5OE,OC\uff0e\u2235\u56db\u8fb9\u5f62ABCD\u662f\u77e9\u5f62,EF\u22a5BE,\u2234\u2220BEF=\u2220BCF=90\u00b0,AB=CD=3,BC=AD=5,\u2235OB=OF,\u2234OE=OB=OF=OC,\u2234B,C,F,E\u56db\u70b9\u5171\u5706,\u2234\u2220EBF=\u2220ECF,\u2234tan\u2220EBF=tan\u2220ACD,\u2234\\frac{EF}{EB}=\\frac{AD}{CD}=\\frac{5}{3},\u6545\u9009:B\uff0e",
+    "ans_choice": "\\frac{5}{3}"
+}

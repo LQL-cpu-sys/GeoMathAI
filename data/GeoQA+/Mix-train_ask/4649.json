@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u76f4\u7ebfl1\u2225l2\u2225l3,\u82e5AB=3,BC=4,\u5219\\frac{DE}{DF}\u7684\u503c\u662f()\u9009\u9879\uff1a['\\\\frac{7}{3}', '\\\\frac{3}{7}', '\\\\frac{4}{3}', '\\\\frac{4}{7}']",
+    "decision": "",
+    "answer": "\u89e3:\u2235l1\u2225l2\u2225l3,\u2234\\frac{DE}{DF}=\\frac{AB}{AC},\u4e14AC=AB+BC=7,\u2234\\frac{DE}{DF}=\\frac{3}{7},\u6545\u9009:B\uff0e",
+    "ans_choice": "\\frac{3}{7}"
+}

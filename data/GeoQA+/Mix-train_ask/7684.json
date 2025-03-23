@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u7b49\u8fb9\u4e09\u89d2\u5f62ABC\u7684\u8fb9\u957f\u4e3a4,\u70b9P\u4e3aBC\u8fb9\u4e0a\u4e00\u70b9,\u4e14BP=1,\u70b9D\u4e3aAC\u8fb9\u4e0a\u4e00\u70b9\uff0e\u82e5\u2220APD=60\u00b0,\u5219CD\u7684\u957f\u4e3a()\u9009\u9879\uff1a['\\\\frac{1}{2}', '\\\\frac{2}{3}', '\\\\frac{3}{4}', '1']",
+    "decision": "",
+    "answer": "\u89e3:\u2235\u25b3ABC\u662f\u7b49\u8fb9\u4e09\u89d2\u5f62,\u2234AB=BC=AC=4,\u2220B=\u2220C=60\u00b0,\u2234\u2220BAP+\u2220APB=180\u00b0-60\u00b0=120\u00b0,\u2235\u2220APD=60\u00b0,\u2234\u2220APB+\u2220DPC=180\u00b0-60\u00b0=120\u00b0,\u2234\u2220BAP=\u2220DPC,\u5373\u2220B=\u2220C,\u2220BAP=\u2220DPC,\u2234\u25b3BAP\u223d\u25b3CPD,\u2234\\frac{AB}{CP}=\\frac{BP}{CD},\u2235AB=BC=4,CP=BC-BP=4-1=3,BP=1,\u5373\\frac{4}{4-1}=\\frac{1}{CD},\u89e3\u5f97:CD=\\frac{3}{4},\u6545\u9009:C\uff0e",
+    "ans_choice": "\\frac{3}{4}"
+}

@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5df2\u77e5\u5728Rt\u25b3ABC\u4e2d,\u2220C=90\u00b0,BC=1,AC=2,\u5219tanA\u7684\u503c\u4e3a()\u9009\u9879\uff1a['2', '\\\\frac{1}{2}', '\\\\frac{\u221a{5}}{5}', '\\\\frac{2\u221a{5}}{5}']",
+    "decision": "",
+    "answer": "\u89e3:\u2235\u2220C=90\u00b0,BC=1,AC=2,\u2234tanA=\\frac{BC}{AC}=\\frac{1}{2}\uff0e\n\u6545\u9009:B\uff0e",
+    "ans_choice": "\\frac{1}{2}"
+}

@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u56db\u8fb9\u5f62ABCD\u4e2d,DC\u2225AB,BC=2,AB=AC=AD=3,\u5219BD\u7684\u957f\u4e3a()\u9009\u9879\uff1a['\u221a{13}', '5', '3\u221a{2}', '4\u221a{2}']",
+    "decision": "",
+    "answer": "\u89e3:\u5982\u56fe,\u5ef6\u957fBA\u4ea4\u2299A\u4e8eF,\u8fde\u63a5DF\uff0e\u2235BF\u662f\u76f4\u5f84,\u2234\u2220BDF=90\u00b0,\u2235CD\u2225BF,\u2234\u2220CDB=\u2220DBF,\u2234\u2040{DF}=\u2040{BC},\u2234DF=BC=2,\u2235BF=2AB=6,\u2234BD=\u221a{BF^{2}-DF^{2}}=\u221a{6^{2}-2^{2}}=4\u221a{2},\u6545\u9009:D\uff0e",
+    "ans_choice": "4\\sqrt{2}"
+}

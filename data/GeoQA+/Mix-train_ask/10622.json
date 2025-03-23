@@ -1,0 +1,8 @@
+{
+    "query": "\u5982\u56fe\uff0c\u25b3ABC\u4e2d\uff0cAB\uff1dAC\uff1d13\uff0cBC\uff1d10\uff0c\u5219sinB\uff1d\uff08\uff09\u9009\u9879\uff1a['\\\\frac{5}{12}', '\\\\frac{10}{13}', '\\\\frac{5}{13}', '\\\\frac{12}{13}']",
+    "decision": "",
+    "answer": "\u5982\u56fe\uff0c\u8fc7\u70b9A\u4f5cAH\u22a5BC\uff0e\u2235AB\uff1dAC\uff1d13\uff0cAH\u22a5BC\uff0c\u2234BH\uff1dCH\uff1d5\uff0c\u2234AH\uff1d\u221a{AB2-BH2}\uff1d\u221a{132-52}\uff1d12\uff0c\u2234sinB\uff1d\\frac{AH}{AB}\uff1d\\frac{12}{13}\uff0e\u6545\u9009\uff1aD\uff0e",
+    "ans_choice": [
+        "\\frac{12}{13}"
+    ]
+}

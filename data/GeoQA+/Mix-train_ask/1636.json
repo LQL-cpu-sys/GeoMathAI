@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u70b9A\u3001B\u3001C\u5728\u2299O\u4e0a,\u2220ACB=20\u00b0,\u5219\u2220AOB\u7684\u5ea6\u6570\u662f()\u9009\u9879\uff1a['10\u00b0', '20\u00b0', '40\u00b0', '70\u00b0']",
+    "decision": "",
+    "answer": "\u7531\u56fe\u53ef\u77e5\u2220AOB=2\u2220ACD=40^{\u00b0},\u6240\u4ee5\u9009C",
+    "ans_choice": "40"
+}

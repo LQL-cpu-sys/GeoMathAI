@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u25b3ABC\u224c\u25b3ADE,\u5982\u679cAB=5cm,BC=7cm,AC=6cm,\u90a3\u4e48DE\u7684\u957f\u662f()\u9009\u9879\uff1a['6cm', '5cm', '7cm', '\u65e0\u6cd5\u786e\u5b9a']",
+    "decision": "",
+    "answer": "\u3010\u89e3\u7b54\u3011\u89e3:\u2235\u25b3ABC\u224c\u25b3ADE,\u2234DE=BC,\u2235BC=7cm,\u2234DE=7cm\uff0e",
+    "ans_choice": "7"
+}

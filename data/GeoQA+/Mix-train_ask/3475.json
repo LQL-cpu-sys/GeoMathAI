@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u534a\u5f84\u4e3a5\u7684\u2299A\u4e2d,\u5df2\u77e5DE=6,\u2220BAC+\u2220EAD=180\u00b0,\u5219\u5f26BC\u7684\u957f\u4e3a()\u9009\u9879\uff1a['\u221a{41}', '\u221a{61}', '11', '8']",
+    "decision": "",
+    "answer": "\u89e3:\u4f5cAH\u22a5BC\u4e8eH,\u4f5c\u76f4\u5f84CF,\u8fde\u7ed3BF,\u5982\u56fe,\u2235\u2220BAC+\u2220EAD=180\u00b0,\n\u800c\u2220BAC+\u2220BAF=180\u00b0,\u2234\u2220DAE=\u2220BAF,\u2234\u2040{DE}=\u2040{BF},\u2234DE=BF=6,\u2235AH\u22a5BC,\u2234CH=BH,\u2235CA=AF,\u2234AH\u4e3a\u25b3CBF\u7684\u4e2d\u4f4d\u7ebf,\u2234AH=\\frac{1}{2}BF=3\uff0e\u2234BH=\u221a{AB^{2}-AH^{2}}=\u221a{5^{2}-3^{2}}=4,\u2234BC=2BH=8\uff0e\n\u6545\u9009:D\uff0e",
+    "ans_choice": "8"
+}

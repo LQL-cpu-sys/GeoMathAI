@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u6d4b\u91cf\u6cb3\u5bbdAB(\u5047\u8bbe\u6cb3\u7684\u4e24\u5cb8\u5e73\u884c),\u5728C\u70b9\u6d4b\u5f97\u2220ACB=30\u00b0,D\u70b9\u6d4b\u5f97\u2220ADB=60\u00b0,\u53c8CD=60m,\u5219\u6cb3\u5bbdAB\u4e3a()\u9009\u9879\uff1a['30\u7c73', '60\u7c73', '30\u221a{3}\u7c73', '60\u221a{3}\u7c73']",
+    "decision": "",
+    "answer": "\u89e3:\u2235\u2220ACB=30\u00b0,\u2220ADB=60\u00b0,\u2234\u2220CAD=30\u00b0,\u2234AD=CD=60m,\u5728Rt\u25b3ABD\u4e2d,AB=AD\u2022sin\u2220ADB=60$\u00d7\\frac{\u221a{3}}{2}=$30$\u221a{3}$(m)\uff0e\u6545\u9009:C\uff0e",
+    "ans_choice": "30\\sqrt{3}"
+}

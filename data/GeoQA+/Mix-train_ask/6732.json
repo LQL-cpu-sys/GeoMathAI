@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u534a\u5f84\u4e3a1\u7684\u5706\u4e2d,\u5706\u5fc3\u89d2\u4e3a120\u00b0\u7684\u6247\u5f62\u9762\u79ef\u4e3a()\u9009\u9879\uff1a['\\\\frac{1}{3}', '\\\\frac{1}{2}', '\\\\frac{1}{3}\u03c0', '\\\\frac{1}{2}\u03c0']",
+    "decision": "",
+    "answer": "\u89e3:S~\u6247\u5f62~=\\frac{n\u03c0R^{2}}{360}=\\frac{120\u03c0\u00d71^{2}}{360}=\\frac{1}{3}\u03c0,\u6545\u9009C\uff0e",
+    "ans_choice": "\\frac{1}{3}\\pi"
+}

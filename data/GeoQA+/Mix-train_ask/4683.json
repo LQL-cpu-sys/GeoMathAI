@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,l_{1}\u2225l_{2}\u2225l_{3},\u5982\u679cAB=2,BC=3,DF=4,\u90a3\u4e48DE=()\u9009\u9879\uff1a['\\\\frac{4}{3}', '\\\\frac{5}{4}', '\\\\frac{8}{5}', '2']",
+    "decision": "",
+    "answer": "\u89e3:\u2235l_{1}\u2225l_{2}\u2225l_{3},\u2234\\frac{AB}{AC}=\\frac{DE}{DF},\u2235AB=2,BC=3,DF=4,\u2234AC=AB+BC=5,\u2234\\frac{2}{5}=\\frac{DE}{4},\u89e3\u5f97:DE=\\frac{8}{5}\uff0e\u6545\u9009:C\uff0e",
+    "ans_choice": "\\frac{8}{5}"
+}

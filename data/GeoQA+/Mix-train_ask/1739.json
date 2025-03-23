@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u534a\u5f84\u4e3a10\u7684\u2299A\u4e2d,\u5f26BC,ED\u6240\u5bf9\u7684\u5706\u5fc3\u89d2\u5206\u522b\u662f\u2220BAC,\u2220EAD,\u82e5DE=12,\u2220BAC+\u2220EAD=180\u00b0,\u5219\u5f26BC\u7684\u957f\u7b49\u4e8e()\u9009\u9879\uff1a['18', '16', '10', '8']",
+    "decision": "",
+    "answer": "\u89e3:\u4f5c\u76f4\u5f84CF,\u8fde\u7ed3BF,\u5982\u56fe,\u5219\u2220FBC=90\u00b0,\u2235\u2220BAC+\u2220EAD=180\u00b0,\u800c\u2220BAC+\u2220BAF=180\u00b0,\u2234\u2220DAE=\u2220BAF,\u2234\u2040{DE}=\u2040{BF},\u2234DE=BF=12,\u2234BC=\u221a{CF^{2}-BF^{2}}=\u221a{20^{2}-12^{2}}=16\u6545\u9009:B\uff0e",
+    "ans_choice": "16"
+}

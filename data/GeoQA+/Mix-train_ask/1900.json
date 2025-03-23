@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5df2\u77e5\u2299O\u7684\u76f4\u5f84AE=10cm,\u2220B=\u2220EAC,\u5219AC\u7684\u957f\u4e3a()\u9009\u9879\uff1a['5cm', '5\u221a{2}cm', '5\u221a{3}cm', '6cm']",
+    "decision": "",
+    "answer": "\u89e3:\u8fde\u63a5EC,\u7531\u5706\u5468\u89d2\u5b9a\u7406\u5f97,\u2220E=\u2220B,\u2220ACE=90\u00b0,\u2235\u2220B=\u2220EAC,\u2234\u2220E=\u2220EAC,\u2234CE=CA,\u2234AC=\\frac{\u221a{2}}{2}AE=5\u221a{2}(cm),\u6545\u9009:B\uff0e",
+    "ans_choice": "5\\sqrt{2}"
+}

@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728Rt\u25b3ABC\u4e2d,\u2220ACB=Rt\u2220,BC=1,AB=2,\u5219sinA\u7684\u503c\u4e3a()\u9009\u9879\uff1a['\\\\frac{\u221a{3}}{2}', '\u221a{3}', '\\\\frac{\u221a{3}}{3}', '\\\\frac{1}{2}']",
+    "decision": "",
+    "answer": "\u89e3:\u2235\u2220ACB=90\u00b0,BC=1,AB=2,\u2234sinA=\\frac{BC}{AB}=\\frac{1}{2}\uff0e\n\u6545\u9009:D\uff0e",
+    "ans_choice": "\\frac{1}{2}"
+}

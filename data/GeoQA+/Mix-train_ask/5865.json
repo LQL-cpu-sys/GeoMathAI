@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728\u25b3ABC\u4e2d,AB=AC=10,\u2220BAC=120\u00b0,AD\u662f\u25b3ABC\u7684\u4e2d\u7ebf,AE\u662f\u2220BAD\u7684\u89d2\u5e73\u5206\u7ebf,DF\u2225AB\u4ea4AE\u7684\u5ef6\u957f\u7ebf\u4e8e\u70b9F,\u5219DF\u7684\u957f\u662f()\u9009\u9879\uff1a['2', '4', '5', '\\\\frac{5}{2}']",
+    "decision": "",
+    "answer": "\u89e3:\u2235AB=AC,AD\u662f\u25b3ABC\u7684\u4e2d\u7ebf,\u2234AD\u22a5BC,\u2220BAD=\u2220CAD=\\frac{1}{2}\u2220BAC=\\frac{1}{2}\u00d7120\u00b0=60\u00b0,\u2235AE\u662f\u2220BAD\u7684\u89d2\u5e73\u5206\u7ebf,\u2234\u2220DAE=\u2220EAB=\\frac{1}{2}\u2220BAD=\\frac{1}{2}\u00d760\u00b0=30\u00b0,\u2235DF\u2225AB,\u2234\u2220F=\u2220BAE=30\u00b0,\u2234\u2220DAE=\u2220F=30\u00b0,\u2234AD=DF,\u2235\u2220B=90\u00b0-60\u00b0=30\u00b0,\u2234AD=\\frac{1}{2}AB=\\frac{1}{2}\u00d710=5,\u2234DF=5,\u6545\u9009:C\uff0e",
+    "ans_choice": "5"
+}

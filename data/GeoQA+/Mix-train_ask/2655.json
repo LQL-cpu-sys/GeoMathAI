@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u76f4\u7ebfOA\u8fc7\u70b9(4,3),\u5219tan\u03b1=()\u9009\u9879\uff1a['\\\\frac{3}{4}', '\\\\frac{3}{5}', '\\\\frac{4}{5}', '\\\\frac{4}{3}']",
+    "decision": "",
+    "answer": "\u89e3:\u5982\u56fe,\ntan\u03b1=\\frac{AB}{OB}=\\frac{3}{4},\n\u6545\u9009:A\uff0e",
+    "ans_choice": "\\frac{3}{4}"
+}

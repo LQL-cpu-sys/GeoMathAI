@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728\u83f1\u5f62ABCD\u4e2d,AC=8,BD=6,\u5219\u25b3ABD\u7684\u9762\u79ef\u7b49\u4e8e()\u9009\u9879\uff1a['12', '16', '20', '24']",
+    "decision": "",
+    "answer": "\u2235\u83f1\u5f62ABCD\u4e2d,AC=8,BD=6\u2234S_{\u83f1\u5f62ABCO}=\\frac{1}{2}AC\\cdotBD=\\frac{1}{2}x^{3}\u00d78\u00d76=24\u53c8\u2235OA=OC\u2234S_{\u25b3ABD}=S_{\u25b3ACD}=\\frac{1}{2}S_{\u83f1\u5f62ABCD}=\\frac{1}{2}x\u00b2+24=12",
+    "ans_choice": "12"
+}

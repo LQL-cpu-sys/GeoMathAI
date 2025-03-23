@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u8fb9\u957f\u4e3a4\u7684\u6b63\u65b9\u5f62ABCD\u4e2d\u6709\u4e00\u4e2a\u5c0f\u6b63\u65b9\u5f62EFGH,\u5176\u4e2dE\u3001F\u3001G\u5206\u522b\u5728AB\u3001BC\u3001FD\u4e0a,\u82e5BF=1,\u5219\u5c0f\u6b63\u65b9\u5f62\u7684\u8fb9\u957f\u4e3a()\u9009\u9879\uff1a['\\\\frac{3}{5}', '\\\\frac{4}{5}', '\\\\frac{5}{4}', '\\\\frac{5}{3}']",
+    "decision": "",
+    "answer": "\u89e3:\u7531\u9898\u610f\u53ef\u5f97,\u2220EBF=\u2220FCD=90\u00b0,\u2220EFG=90\u00b0,\u2234\u2220EFB+\u2220FEB=90\u00b0,\u2220EFB+\u2220DFC=90\u00b0,\u2234\u2220FEB=\u2220DFC,\u2234\u25b3EBF\u223d\u25b3FCD,\u2234\\frac{BE}{CF}=\\frac{BF}{CD},\u2235BF=1,CD=BC=4,\u2234FC=3,\u2234\\frac{BE}{3}=\\frac{1}{4},\u89e3\u5f97,BE=\\frac{3}{4},\u2234EF=\u221a{BE\u00b2+BF\u00b2}=\u221a{(\\frac{3}{4})\u00b2+1\u00b2}=\\frac{5}{4},\u6545\u9009:C\uff0e",
+    "ans_choice": "\\frac{5}{4}"
+}

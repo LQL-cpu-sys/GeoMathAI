@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728Rt\u25b3ABC\u4e2d,\u2220C=90\u00b0,BC=3,AC=2,\u5219tanB\u7684\u503c\u662f()\u9009\u9879\uff1a['\\\\frac{2}{3}', '\\\\frac{3}{2}', '\\\\frac{2\u221a{5}}{5}', '\\\\frac{2\u221a{13}}{13}']",
+    "decision": "",
+    "answer": "\u89e3:tanB=\\frac{AC}{CB}=\\frac{2}{3},\n\u6545\u9009:A\uff0e",
+    "ans_choice": "\\frac{2}{3}"
+}

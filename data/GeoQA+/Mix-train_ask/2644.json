@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u76f4\u7ebfy=\\frac{3}{4}x+3\u4e0ex\u3001y\u8f74\u5206\u522b\u4ea4\u4e8eA\u3001B\u4e24\u70b9,\u5219\\cos\u2220BAO\u7684\u503c\u662f()\u9009\u9879\uff1a['\\\\frac{4}{5}', '\\\\frac{3}{5}', '\\\\frac{4}{3}', '\\\\frac{5}{4}']",
+    "decision": "",
+    "answer": "\u89e3:\u5f53x=0\u65f6,y=3,\n\u5f53y=0\u65f6,x=-4,\u2234\u76f4\u7ebfy=\\frac{3}{4}x+3\u4e0ex\u3001y\u8f74\u7684\u4ea4\u70b9A\u7684\u5750\u6807(-4,0)\u3001B(0,3),\u2234OA=4,OB=3,\n\u7531\u52fe\u80a1\u5b9a\u7406\u5f97,AB=5,\n\u5219\\cos\u2220BAO=\\frac{0A}{AB}=\\frac{4}{5},\n\u6545\u9009:A\uff0e",
+    "ans_choice": "\\frac{4}{5}"
+}

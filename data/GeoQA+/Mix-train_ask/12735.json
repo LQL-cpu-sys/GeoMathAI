@@ -1,0 +1,8 @@
+{
+    "query": "\u5982\u56fe\uff0c\u56db\u8fb9\u5f62ABCD\u662f\u83f1\u5f62\uff0c\u5bf9\u89d2\u7ebfAC\uff1d8cm\uff0cBD\uff1d6cm\uff0cDH\u22a5AB\u4e8e\u70b9H\uff0c\u4e14DH\u4e0eAC\u4ea4\u4e8eG\uff0c\u5219DH\uff1d\uff08\uff09\u9009\u9879\uff1a['2.4', '\\\\frac{18}{5}', '\\\\frac{24}{5}', '\\\\frac{28}{5}']",
+    "decision": "",
+    "answer": "\u2235\u56db\u8fb9\u5f62ABCD\u662f\u83f1\u5f62\uff0c\u2234AC\u22a5BD\uff0cOA\uff1dOC\uff1d0.5\u00d7AC\uff1d4cm\uff0cOB\uff1dOD\uff1d3cm\uff0c\u2234AB\uff1d\u221a{AO2+BO2}\uff1d\u221a{42+32}\uff1d5cm\uff0c\u2234S\u83f1\u5f62ABCD\uff1d0.5\u00d7AC2BD\uff1dAB2DH\uff0c\u2234DH\uff1d\\frac{AC\u00d7BD}{2BD}\uff1d\\frac{24}{5}\uff08cm\uff09\uff0e\u6545\u9009\uff1aC\uff0e",
+    "ans_choice": [
+        "\\frac{24}{5}"
+    ]
+}

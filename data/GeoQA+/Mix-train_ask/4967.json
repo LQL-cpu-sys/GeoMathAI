@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u25b3ABC,AB=8,AC=5,BC=7,AD\u662f\u25b3ABC\u5916\u89d2\u5e73\u5206\u7ebf,CD\u22a5AD\u4e8eD,E\u662fBC\u7684\u4e2d\u70b9,\u5219DE=()\u9009\u9879\uff1a['7', '6.5', '6', '5.5']",
+    "decision": "",
+    "answer": "\u3010\u89e3\u7b54\u3011\u89e3:\u5982\u56fe,\u5ef6\u957fCD\u4ea4BA\u7684\u5ef6\u957f\u7ebf\u4e8eF,\u2235AD\u662f\u25b3ABC\u7684\u5916\u89d2\u5e73\u5206\u7ebf,CD\u22a5AD,\u2234\u2220CAD=\u2220FAD,\u2220ADC=\u2220ADF=90\u00b0,\u5728\u25b3ACD\u548c\u25b3AFD\u4e2d,\u2265ft\\{\\begin{array}{l}{\u2220{CAD}=\u2220{FAD}}\\\\{{AD}={AD}}\\\\{\u2220{ADC}=\u2220{ADF}=90\u00b0},\u2234\u25b3ACD\u224c\u25b3AFD(ASA),\u2234CD=DF,AC=AF,\u2234AB+AC=BF,\u2235E\u662fBC\u7684\u4e2d\u70b9,\u2234DE\u662f\u25b3BCF\u7684\u4e2d\u4f4d\u7ebf,\u2234DE=\\frac{1}{2}BF=\\frac{1}{2}(AB+AC)=\\frac{13}{2}=6.5\uff1b",
+    "ans_choice": "6.5"
+}

@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728Rt\u25b3ABC\u4e2d,\u2220ABC=90\u00b0,BD\u22a5AD\u4e8e\u70b9D,\u5176\u4e2d\\frac{BC}{AC}=\\frac{5}{13},\u5219\\frac{BD}{AD}=()\u9009\u9879\uff1a['\\\\frac{5}{13}', '\\\\frac{12}{13}', '\\\\frac{5}{12}', '\\\\frac{13}{12}']",
+    "decision": "",
+    "answer": "\u89e3:\u2235BD\u22a5AD,\u2234\u2220BDA=90\u00b0,\u2235\u2220ABC=90\u00b0,\u2234\u2220ABC=\u2220ADB,\u2235\u2220A=\u2220A,\u2234\u25b3ADB\u223d\u25b3ABC,\u2234\\frac{BD}{AD}=\\frac{BC}{AB},\u2235\\frac{BC}{AC}=\\frac{5}{13},\u2234\u8bbeBC=5x,AC=13x,\u2234AB=\u221a{(13x)\u00b2-(5x)\u00b2}=12x,\u2234\\frac{CB}{AB}=\\frac{5}{12},\u2234\\frac{BD}{AD}=\\frac{BC}{AB}=\\frac{5}{12}\uff0e\u6545\u9009:C\uff0e",
+    "ans_choice": "\\frac{5}{12}"
+}

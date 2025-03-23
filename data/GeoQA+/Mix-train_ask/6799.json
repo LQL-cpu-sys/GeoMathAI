@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u4e00\u4e2a\u659c\u5761\u957f130m,\u5761\u9876\u79bb\u6c34\u5e73\u5730\u9762\u7684\u8ddd\u79bb\u4e3a50m,\u90a3\u4e48\u8fd9\u4e2a\u659c\u5761\u4e0e\u6c34\u5e73\u5730\u9762\u5939\u89d2\u7684\u6b63\u5207\u503c\u7b49\u4e8e()\u9009\u9879\uff1a['\\\\frac{5}{13}', '\\\\frac{12}{13}', '\\\\frac{5}{12}', '\\\\frac{13}{12}']",
+    "decision": "",
+    "answer": "\u89e3:\u5982\u56fe,\u5728Rt\u25b3ABC\u4e2d,\u2235\u2220ACB=90\u00b0,AB=130m,BC=50m,\u2234AC$=\u221a{AB^{2}-BC^{2}}=\u221a{130^{2}-50^{2}}=$120m,\u2234tan\u2220BAC$=\\frac{BC}{AC}=\\frac{50}{120}=\\frac{5}{12}$,\u6545\u9009:C\uff0e",
+    "ans_choice": "\\frac{5}{12}"
+}

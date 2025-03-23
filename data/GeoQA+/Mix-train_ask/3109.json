@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u534a\u5f84\u4e3a4\u7684\u2299O\u4e2d,\u5df2\u77e5\u5f26AB=1,\u2220BCA+\u2220EAD=90\u00b0,\u5219\u5f26DE\u7684\u957f\u4e3a()\u9009\u9879\uff1a['5', '\u221a{65}', '7', '3\u221a{7}']",
+    "decision": "",
+    "answer": "\u89e3:\u4f5c\u76f4\u5f84AM,\u8fde\u63a5BM,\u5982\u56fe,\u2235AM\u4e3a\u76f4\u5f84,\u2234\u2220ABM=90\u00b0,\u2234BM=\u221a{AM^{2}-AB^{2}}=\u221a{8^{2}-1^{2}}=3\u221a{7},\u2220BMA+\u2220BAM=90\u00b0,\u2235\u2220ACB=\u2220BMA,\u2220BCA+\u2220EAD=90\u00b0,\u2234\u2220EAD=\u2220BAM,\u2234DE=BM=3\u221a{7}\uff0e\n\u6545\u9009:D\uff0e",
+    "ans_choice": "3\\sqrt{7}"
+}

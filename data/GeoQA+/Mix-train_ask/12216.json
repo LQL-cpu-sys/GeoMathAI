@@ -1,0 +1,8 @@
+{
+    "query": "\u5982\u56fe\uff0ca\u2225b\u2225c\uff0cAB\uff1d9\uff0cBC\uff1d3\uff0cDE\uff1d12\uff0c\u5219EF\u7684\u957f\u4e3a\uff08\uff09\u9009\u9879\uff1a['4', '6', '16', '3']",
+    "decision": "",
+    "answer": "\u2235a\u2225b\u2225c\uff0c\u2234\\frac{AB}{BC}=\\ftac{DE}{EF}\uff0c\u5373\\frac{9}{3}=\\ftac{12}{EF}\uff0c\u2234EF\uff1d4\uff0e\u6545\u9009\uff1aA\uff0e",
+    "ans_choice": [
+        "4"
+    ]
+}

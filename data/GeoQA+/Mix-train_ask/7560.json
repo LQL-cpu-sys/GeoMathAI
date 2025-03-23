@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728\u25b3ABC\u4e2d,DE\u2225BC,AD:AB=1:3,DE=4,\u5219BC\u7684\u957f\u662f()\u9009\u9879\uff1a['16', '15', '12', '8']",
+    "decision": "",
+    "answer": "\u89e3:\u2235DE\u2225BC,\u2234\u25b3ADE\u223d\u25b3ABC\u2234AD:AB=DE:BC=1:3,\u2235DE=4\u2234BC=12\u6545\u9009:C\uff0e",
+    "ans_choice": "12"
+}

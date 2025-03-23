@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728Rt\u25b3ABC\u4e2d,\u2220A=90\u00b0,AB=6,AC=8,\u70b9D\u4e3a\u8fb9BC\u7684\u4e2d\u70b9,\u70b9M\u4e3a\u8fb9AB\u4e0a\u7684\u4e00\u52a8\u70b9,\u70b9N\u4e3a\u8fb9AC\u4e0a\u7684\u4e00\u52a8\u70b9,\u4e14\u2220MDN=90\u00b0,\u5219cos\u2220DMN\u4e3a()\u9009\u9879\uff1a['\\\\frac{\u221a{10}}{5}', '\\\\frac{\u221a{5}}{5}', '\\\\frac{3}{5}', '\\\\frac{4}{5}']",
+    "decision": "",
+    "answer": "\u89e3:\u8fde\u7ed3AD,\u5982\u56fe,\u2235\u2220A=90\u00b0,AB=6,AC=8,\u2234BC=\u221a{6\u00b2+8\u00b2}=10,\u2235\u70b9D\u4e3a\u8fb9BC\u7684\u4e2d\u70b9,\u2234DA=DC=5,\u2234\u22201=\u2220C,\u2235\u2220MDN=90\u00b0,\u2220A=90\u00b0,\u2234\u70b9A\u3001D\u5728\u4ee5MN\u4e3a\u76f4\u5f84\u7684\u5706\u4e0a,\u2234\u22201=\u2220DMN,\u2234\u2220C=\u2220DMN,\u5728Rt\u25b3ABC\u4e2d,cosC=\\frac{AC}{BC}=\\frac{8}{10}=\\frac{4}{5},\u2234cos\u2220DMN=\\frac{4}{5}\uff0e\u6545\u9009:D\uff0e",
+    "ans_choice": "\\frac{4}{5}"
+}

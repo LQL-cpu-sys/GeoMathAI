@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728\u56db\u8fb9\u5f62ABCD\u4e2d,AB=3,BC=5,\u2220A=130\u00b0,\u2220D=100\u00b0,AD=CD\uff0e\u82e5\u70b9E,F\u5206\u522b\u662f\u8fb9AD,CD\u7684\u4e2d\u70b9,\u5219EF\u7684\u957f\u662f()\u9009\u9879\uff1a['\u221a{2}', '\u221a{3}', '2', '\u221a{5}']",
+    "decision": "",
+    "answer": "\u89e3:\u8fde\u63a5AC,\u2235\u2220D=100\u00b0,AD=CD,\u2234\u2220DAC=\u2220DCA=40\u00b0,\u2234\u2220BAC=\u2220BAD-\u2220DAC=90\u00b0,\u2234AC=\u221a{BC^{2}-AB^{2}}=4,\u2235\u70b9E,F\u5206\u522b\u662f\u8fb9AD,CD\u7684\u4e2d\u70b9,\u2234EF=\\frac{1}{2}AC=2,\u6545\u9009:C\uff0e",
+    "ans_choice": "2"
+}

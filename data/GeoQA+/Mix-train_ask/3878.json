@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,PA,PB\u5206\u522b\u4e0e\u2299O\u76f8\u5207\u4e8eA,B\u4e24\u70b9,PO\u4e0eAB\u76f8\u4ea4\u4e8e\u70b9C,PA=6,\u2220APB=60\u00b0,\u5219OC\u7684\u957f\u7b49\u4e8e()\u9009\u9879\uff1a['\u221a{3}', '3', '3-\u221a{3}', '6-3\u221a{3}']",
+    "decision": "",
+    "answer": "\u89e3:\u5982\u56fe,\u8fde\u63a5OA,\u2235PA,PB\u5206\u522b\u4e0e\u2299O\u76f8\u5207\u4e8eA,B\u4e24\u70b9,PA=6,\u2220APB=60\u00b0,\u2234OA\u22a5PA,\u2220APO=30\u00b0=\u2220PBO,PA=PB,\u2234\u2220AOC=60\u00b0,AB\u22a5PO\u2234\u2220CAO=30\u00b0\u2234AO=2CO,\u2235tan\u2220APO=\\frac{AO}{PA}=\\frac{\u221a{3}}{3}\u2234AO=\\frac{\u221a{3}}{3}\u00d76=2\u221a{3}\u2234CO=\u221a{3}\u6545\u9009:A\uff0e",
+    "ans_choice": "\\sqrt{3}"
+}

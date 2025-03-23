@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,AB\u2225CD\u2225EF,\u4e14AO=OD=DF,OE=6,\u5219BE=()\u9009\u9879\uff1a['9', '10', '11', '12']",
+    "decision": "",
+    "answer": "\u89e3:\u2235CD\u2225EF,OD=DF,\u2234OC=CE=\\frac{1}{2}OE=3,\u2235AB\u2225CD,AO=OD,\u2234OB=OD=3,\u2234BE=9,\u6545\u9009:A\uff0e",
+    "ans_choice": "9"
+}

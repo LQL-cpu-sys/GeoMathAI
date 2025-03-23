@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u6709\u4e00\u659c\u5761AB,\u5761\u89d2\u2220B=30\u00b0,\u5176\u6c34\u5e73\u957f\u5ea6BC\u4e3a30\u7c73,\u5219\u5761\u9762AB\u7684\u957f\u4e3a()\u9009\u9879\uff1a['15\u7c73', '15\u221a{3}\u7c73', '20\u221a{3}\u7c73', '60\u7c73']",
+    "decision": "",
+    "answer": "\u89e3:\u2235\u5728Rt\u25b3ABC\u4e2d,\u2220C=90\u00b0,\u2220B=30\u00b0,BC=30\u7c73,\u2234cosB$=\\frac{BC}{AB}$,\u2234AB$=\\frac{BC}{cosB}=\\frac{30}{\\frac{\u221a{3}{2}}}=$20$\u221a{3}$(\u7c73)\uff0e\u6545\u9009:C\uff0e",
+    "ans_choice": "20\\sqrt{3}"
+}

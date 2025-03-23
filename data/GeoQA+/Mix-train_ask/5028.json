@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,BC=\\frac{1}{2}AB,D\u4e3aAC\u7684\u4e2d\u70b9,DC=3cm,\u5219AB\u7684\u957f\u662f()\u9009\u9879\uff1a['4cm', '\\\\frac{9}{2}cm', '5cm', '\\\\frac{11}{2}cm']",
+    "decision": "",
+    "answer": "\u3010\u89e3\u7b54\u3011\u89e3:\u8bbeBC=xcm,\u2235BC=\\frac{1}{2}AB,\u2234AB=2BC=2x,AC=AB+BC=3xcm,\u2235D\u4e3aAC\u7684\u4e2d\u70b9,\u2234AD=DC=\\frac{1}{2}AC=1.5xcm,\u2235CD=3cm,\u22341.5x=3,\u89e3\u5f97:x=2,\u5373AB=2xcm=4cm,",
+    "ans_choice": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u70b9A(t,3)\u5728\u7b2c\u4e00\u8c61\u9650,OA\u4e0ex\u8f74\u6240\u5939\u7684\u9510\u89d2\u4e3a\u03b1,tan\u03b1=\\frac{3}{2},\u5219t\u7684\u503c\u662f()\u9009\u9879\uff1a['1', '1.5', '2', '3']",
+    "decision": "",
+    "answer": "\u89e3:\u2235\u70b9A(t,3)\u5728\u7b2c\u4e00\u8c61\u9650,\u2234AB=3,OB=t,\n\u53c8\u2235tan\u03b1=\\frac{AB}{OB}=\\frac{3}{2},\u2234t=2\uff0e\n\u6545\u9009:C\uff0e",
+    "ans_choice": "2"
+}

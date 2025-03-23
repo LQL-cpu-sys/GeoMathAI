@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe\u6240\u793a,\u5728\u25b1ABCD\u4e2d,\u5df2\u77e5AD=10cm,AB=4cm,AE\u5e73\u5206\u2220BAD\u4ea4BC\u4e8e\u70b9E,\u5219EC\u7b49\u4e8e()\u9009\u9879\uff1a['7cm', '6cm', '5cm', '4cm']",
+    "decision": "",
+    "answer": "\u89e3:\u5728\u25b1ABCD\u4e2d,AD=BC,AD\u2225BC,\u2234\u2220DAE=\u2220BEA,\u2235AE\u5e73\u5206\u2220BAD\u4ea4BC\u4e8e\u70b9E,\u2234\u2220BAE=\u2220DAE,\u2234\u2220BAE=\u2220BEA,\u2234AB=BE,\u2235AD=10cm,AB=4cm,\u2234AB=10cm,BE=4cm,\u2234EC=6cm\uff0e\u6545\u9009:B\uff0e",
+    "ans_choice": "6"
+}

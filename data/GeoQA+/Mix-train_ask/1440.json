@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728\u25b3ABC\u4e2d,DE\u662fAC\u7684\u5782\u76f4\u5e73\u5206\u7ebf,AC=6cm,\u4e14\u25b3ABD\u7684\u5468\u957f\u4e3a13cm,\u5219\u25b3ABC\u7684\u5468\u957f\u4e3a()cm\uff0e\u9009\u9879\uff1a['19', '13', '10', '16']",
+    "decision": "",
+    "answer": "\u2235DE\u662fAC\u7684\u5782\u76f4\u5e73\u5206\u7ebf,\u2234AD=DC,\u2235\u25b3ABD\u7684\u5468\u957f\u4e3a13cm,\u2234AB+BD+AD=AB+BD+DC=AB+BC=13cm,\u2235AC=6cm\u2234\u25b3ABC\u7684\u5468\u957f\u4e3aAB+BC+AC=13cm+6cm=19cm,\u6545\u9009:A.",
+    "ans_choice": "19"
+}

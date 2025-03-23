@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728\u25b3ABC\u4e2d,\u82e5DE\u2225BC,\\frac{AD}{AB}=\\frac{1}{2},DE=4cm,\u5219BC\u7684\u957f\u4e3a()\u9009\u9879\uff1a['8cm', '12cm', '11cm', '10cm']",
+    "decision": "",
+    "answer": "\u89e3:\u2235DE\u2225BC,\u2234\u25b3ADE\u223d\u25b3ABC,\u2234\\frac{DE}{BC}=\\frac{AD}{AB}=\\frac{1}{2},\u5373\\frac{4}{BC}=\\frac{1}{2},\u2234BC=8(cm)\uff0e\u6545\u9009:A\uff0e",
+    "ans_choice": "8"
+}

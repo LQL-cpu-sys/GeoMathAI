@@ -1,0 +1,8 @@
+{
+    "query": "\u5982\u56fe\uff0c\u6b63\u65b9\u5f62ABCD\u4e2d\uff0cAB\uff1d1\uff0c\u5219AC\u7684\u957f\u662f\uff08\uff09\u9009\u9879\uff1a['1', '\u221a{2}', '\u221a{3}', '2']",
+    "decision": "",
+    "answer": "\u5728Rt\u25b3ABC\u4e2d\uff0cAB\uff1dBC\uff1d1\uff0c\u2234AC\uff1d\u221a{AB2+BC2}\uff1d\u221a{12+12}\uff1d\u221a{2}\uff1b\uff0e\u6545\u9009\uff1aB\uff0e",
+    "ans_choice": [
+        ""
+    ]
+}

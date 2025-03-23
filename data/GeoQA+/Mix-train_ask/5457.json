@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,AE\u662f\u25b3ABC\u7684\u4e2d\u7ebf,\u5df2\u77e5EC=4,DE=2,\u5219BD\u7684\u957f\u4e3a()\u9009\u9879\uff1a['2', '3', '4', '6']",
+    "decision": "",
+    "answer": "\u3010\u89e3\u7b54\u3011\u89e3:\u2235AE\u662f\u25b3ABC\u7684\u4e2d\u7ebf,EC=4,\u2234BE=EC=4,\u2235DE=2,\u2234BD=BE-DE=4-2=2\uff0e",
+    "ans_choice": "2"
+}

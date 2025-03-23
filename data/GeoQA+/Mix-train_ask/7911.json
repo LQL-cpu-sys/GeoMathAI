@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u8fb9\u957f12\u7684\u6b63\u65b9\u5f62ABCD\u4e2d,\u6709\u4e00\u4e2a\u5c0f\u6b63\u65b9\u5f62EFGH,\u5176\u4e2dE\u3001F\u3001G\u5206\u522b\u5728AB\u3001BC\u3001FD\u4e0a\uff0e\u82e5BF=3,\u5219\u5c0f\u6b63\u65b9\u5f62\u7684\u8fb9\u957f\u4e3a()\u9009\u9879\uff1a['\\\\frac{15}{4}', '2\u221a{3}', '4', '5']",
+    "decision": "",
+    "answer": "\u89e3:\u5728\u25b3BEF\u4e0e\u25b3CFD\u4e2d\u2235\u22201+\u22202=\u22202+\u22203=90\u00b0,\u2234\u22201=\u22203\u2235\u2220B=\u2220C=90\u00b0,\u2234\u25b3BEF\u223d\u25b3CFD,\u2235BF=3,BC=12,\u2234CF=BC-BF=12-3=9,\u53c8\u2235DF=\u221a{CD\u00b2+CF\u00b2}=\u221a{12\u00b2+9\u00b2}=15,\u2234\\frac{BF}{CD}=\\frac{EF}{DF},\u5373\\frac{3}{12}=\\frac{EF}{15}\uff0e\u2234EF=\\frac{15}{4},\u6545\u9009:A\uff0e",
+    "ans_choice": "\\frac{15}{4}"
+}

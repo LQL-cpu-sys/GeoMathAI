@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728\u25b3ABC\u4e2d,\u5982\u679cDE\u2225BC,AD=3,AE=2,BD=5,\u5219AC\u7684\u957f\u4e3a()\u9009\u9879\uff1a['\\\\frac{16}{3}', '\\\\frac{10}{3}', '\\\\frac{5}{3}', '\\\\frac{15}{2}']",
+    "decision": "",
+    "answer": "\u89e3:\u2235AD=3,BD=5,\u2234\\frac{AD}{BD}=\\frac{3}{5},\u2235DE\u2225BC,\u2234\\frac{AD}{BD}=\\frac{AE}{EC},\u2234\\frac{3}{5}=\\frac{AE}{EC},\u2234CE=\\frac{10}{3},\u2234AC=AE+CE=2+\\frac{10}{3}=\\frac{16}{3},\u6545\u9009:A\uff0e",
+    "ans_choice": "\\frac{16}{3}"
+}

@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,AD\u2225BE\u2225CF,\u76f4\u7ebfl1\u3001l2\u4e0e\u8fd9\u4e09\u6761\u5e73\u884c\u7ebf\u5206\u522b\u4ea4\u4e8e\u70b9A\u3001B\u3001C\u548c\u70b9D\u3001E\u3001F\uff0e\u82e5AB=4.5,BC=3,EF=2,\u5219DE\u7684\u957f\u5ea6\u662f()\u9009\u9879\uff1a['\\\\frac{4}{3}', '3', '5', '\\\\frac{27}{4}']",
+    "decision": "",
+    "answer": "\u89e3:\u2235AD\u2225BE\u2225CF,\u2234\\frac{AB}{BC}=\\frac{DE}{EF},\u5373:\\frac{4.5}{3}=\\frac{DE}{2},\u2234DE=3,\u6545\u9009:B\uff0e",
+    "ans_choice": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5df2\u77e5AB\u2225CD,AO=2,BO=3,CO=6,\u90a3\u4e48DO=()\u9009\u9879\uff1a['3', '4', '5', '6']",
+    "decision": "",
+    "answer": "\u89e3:\u2235AB\u2225CD,\u2234\\frac{AO}{DO}=\\frac{BO}{CO},\u2235AO=2,BO=3,CO=6,\u2234\\frac{2}{DO}=\\frac{3}{6},\u2234DO=4\uff1b\u6545\u9009:B\uff0e",
+    "ans_choice": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,DE\u2225BC,\u4e14AD=4,DB=2,DE=3.5,\u5219BC\u7684\u957f\u5ea6\u4e3a()\u9009\u9879\uff1a['5.5', '5.25', '6.5', '7']",
+    "decision": "",
+    "answer": "\u89e3:\u2235DE\u2225BC,\u2234\u25b3ADE\u223d\u25b3ABC,\u2234\\frac{AD}{AB}=\\frac{DE}{BC},\u2235AD=4,DB=2,DE=3.5,\u2234\\frac{4}{4+2}=\\frac{3.5}{BC},\u2234BC=5.25,\u6545\u9009:B\uff0e",
+    "ans_choice": "5.25"
+}

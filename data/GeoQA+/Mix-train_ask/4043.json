@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5df2\u77e5PA\u5207\u2299O\u4e8eA,\u2299O\u7684\u534a\u5f84\u4e3a3,OP=5,\u5219\u5207\u7ebfPA\u957f\u4e3a()\u9009\u9879\uff1a['\u221a{34}', '8', '4', '2']",
+    "decision": "",
+    "answer": "\u89e3:\u8fde\u63a5OA,\u5982\u56fe,\u2235PA\u5207\u2299O\u4e8eA,\u2234OA\u22a5AP,\u5728Rt\u25b3OAP\u4e2d,PA=\u221a{0P^{2}-0A^{2}}=\u221a{5^{2}-3^{2}}=4\uff0e\u6545\u9009:C\uff0e",
+    "ans_choice": "4"
+}

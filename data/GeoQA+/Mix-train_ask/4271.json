@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u2299O\u7684\u534a\u5f84\u4e3a3,PA\u3001PB\u5206\u522b\u5207\u2299O\u4e8e\u70b9A\u3001B,OP=6,\u5219PB\u7684\u957f\u4e3a()\u9009\u9879\uff1a['3', '2\u221a{3}', '3\u221a{3}', '6']",
+    "decision": "",
+    "answer": "\u89e3:\u2235PA\u3001PB\u5206\u522b\u5207\u2299O\u4e8e\u70b9A\u3001B,\u2234PA=PB,\u2220OPA=90\u00b0,\u5728Rt\u25b3OAP\u4e2d,\u2235OA=3,OP=6,\u2234PA=\u221a{6^{2}-3^{2}}=\u221a{36-9}=3\u221a{3},\u2234PB=PA=3\u221a{3},\u6545\u9009:C\uff0e",
+    "ans_choice": "3\\sqrt{3}"
+}

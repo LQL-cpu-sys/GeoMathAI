@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,DE\u2225BC,AB=15,AC=9,BD=4,\u90a3\u4e48AE=()\u9009\u9879\uff1a['\\\\frac{12}{5}', '\\\\frac{57}{5}', '\\\\frac{135}{4}', '12']",
+    "decision": "",
+    "answer": "\u89e3:\u2235DE\u2225BC,\u2234\\frac{AB}{AD}=\\frac{AC}{AE},\u53c8AB=15,AC=9,BD=4,\u5373\\frac{15}{19}=\\frac{9}{AE},\u89e3\u5f97AE=\\frac{57}{5}\uff0e\u6545\u9009:B\uff0e",
+    "ans_choice": "\\frac{57}{5}"
+}

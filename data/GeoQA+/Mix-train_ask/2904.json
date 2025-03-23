@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5df2\u77e5\u2299O\u7684\u4e24\u6761\u5f26AC,BD\u76f8\u4ea4\u4e8e\u70b9E,\u2220A=70\u00b0,\u2220C=50\u00b0,\u90a3\u4e48sin\u2220AEB\u7684\u503c\u4e3a()\u9009\u9879\uff1a['\\\\frac{1}{2}', '\\\\frac{\u221a{3}}{3}', '\\\\frac{\u221a{2}}{2}', '\\\\frac{\u221a{3}}{2}']",
+    "decision": "",
+    "answer": "\u89e3:\u2235\u2220A=70\u00b0,\u2220C=50\u00b0,\u2234\u2220B=\u2220C=50\u00b0,\u2220AEB=60\u00b0,\u2234sin\u2220AEB=\\frac{\u221a{3}}{2}\uff0e\n\u6545\u9009:D\uff0e",
+    "ans_choice": "\\frac{\\sqrt{3}}{2}"
+}

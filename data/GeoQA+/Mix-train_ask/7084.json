@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728Rt\u25b3ABC\u4e2d,\u2220C=90\u00b0,AC=3,AB=5\uff0e\u5219cosB\u7b49\u4e8e()\u9009\u9879\uff1a['\\\\frac{3}{4}', '\\\\frac{4}{3}', '\\\\frac{3}{5}', '\\\\frac{4}{5}']",
+    "decision": "",
+    "answer": "\u89e3:\u2235Rt\u25b3ABC\u4e2d,\u2220C=90\u00b0,AB=5,AC=3,\u2234BC=4,\u2234cosB=\\frac{BC}{AB}=\\frac{4}{5}\uff0e\u6545\u9009:D\uff0e",
+    "ans_choice": "\\frac{4}{5}"
+}

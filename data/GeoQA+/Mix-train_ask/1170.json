@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,AB\u662f\u2299O\u7684\u76f4\u5f84,BC\u662f\u2299O\u7684\u5f26,\u5df2\u77e5\u2220AOC=80\u00b0,\u5219\u2220ABC\u7684\u5ea6\u6570\u4e3a()\u9009\u9879\uff1a['20\u00b0', '30\u00b0', '40\u00b0', '50\u00b0']",
+    "decision": "",
+    "answer": "\u2235AC=\u2040{AC}\u2234\u2220ABC=\\frac{1}{2}\u2220AOC=\\frac{1}{2}\u00d780^{\u00b0}=40^{\u00b0}\u6545\u9009C",
+    "ans_choice": "40"
+}

@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728Rt\u25b3ABC\u4e2d,\u2220ACB=90\u00b0,CD\u22a5AB,\u5782\u8db3\u4e3aD\uff0e\u82e5AC=2,BC=1,\u5219sin\u2220ACD=()\u9009\u9879\uff1a['\\\\frac{\u221a{5}}{3}', '\\\\frac{2\u221a{5}}{5}', '\\\\frac{\u221a{5}}{2}', '\\\\frac{2}{3}']",
+    "decision": "",
+    "answer": "\u89e3:\u5728Rt\u25b3ABC\u4e2d,\u2220ACB=90\u00b0,\u7531\u52fe\u80a1\u5b9a\u7406,\u5f97\nAB=\u221a{AC^{2}+BC^{2}}=\u221a{2^{2}+1^{2}}=\u221a{5},\n\u7531\u4f59\u89d2\u7684\u6027\u8d28,\u5f97\u2220ACD=\u2220B,\n\u7531\u6b63\u5f26\u51fd\u6570\u7684\u5b9a\u4e49,\u5f97\nsin\u2220ACD=sin\u2220B=\\frac{AC}{AB}=\\frac{2}{\u221a{5}}=\\frac{2\u221a{5}}{5},\n\u6545\u9009:B\uff0e",
+    "ans_choice": "\\frac{2\\sqrt{5}}{5}"
+}

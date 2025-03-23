@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,Rt\u25b3ABC\u4e2d,\u2220C=90\u00b0,AB=2,BC=1,\u5219sinA\u7b49\u4e8e()\u9009\u9879\uff1a['2', '\\\\frac{\u221a{5}}{5}', '\\\\frac{1}{2}', '\u221a{5}']",
+    "decision": "",
+    "answer": "\u89e3:\u2235AB=2\u3001BC=1,\u2234sinA=\\frac{BC}{AB}=\\frac{1}{2},\n\u6545\u9009:C\uff0e",
+    "ans_choice": "\\frac{1}{2}"
+}

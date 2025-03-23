@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u6cbf\u503e\u659c\u89d2\u4e3a30\u00b0\u7684\u5c71\u5761\u690d\u6811,\u8981\u6c42\u76f8\u90bb\u4e24\u68f5\u6811\u95f4\u7684\u6c34\u5e73\u8ddd\u79bbAC\u4e3a2m,\u90a3\u4e48\u76f8\u90bb\u4e24\u68f5\u6811\u7684\u659c\u5761\u8ddd\u79bbAB\u4e3a()m\uff0e\u9009\u9879\uff1a['\\\\frac{4}{3}\u221a{3}', '\\\\frac{2}{3}\u221a{3}', '1', '4']",
+    "decision": "",
+    "answer": "\u89e3:\u5728Rt\u25b3ABC\u4e2d,\u2220C=90\u00b0,\u2220A=30\u00b0,AC=2m,cos\u2220A=\\frac{AC}{AB},\u2234cos30\u00b0=\\frac{2}{AB},\u2234AB=\\frac{2}{cos30{^\u00b0}}=\\frac{2}{\\frac{\u221a{3}}{2}}=\\frac{4}{3}\u221a{3}m,\u6545\u9009:A\uff0e",
+    "ans_choice": "\\frac{4}{3}\\sqrt{3}"
+}

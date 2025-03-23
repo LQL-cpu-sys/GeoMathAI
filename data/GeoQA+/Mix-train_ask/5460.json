@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u7ebf\u6bb5AB=18cm,BC=6cm,D\u4e3aBC\u7684\u4e2d\u70b9,\u5219\u7ebf\u6bb5AD\u7684\u957f\u4e3a()\u9009\u9879\uff1a['12cm', '15cm', '13cm', '11cm']",
+    "decision": "",
+    "answer": "\u3010\u89e3\u7b54\u3011\u89e3:\u2235AB=18cm,BC=6cm,\u2234AC=AB-BC=12cm\u53c8\u2235D\u4e3aBC\u7684\u4e2d\u70b9,\u2234CD=\\frac{1}{2}BC=3\u4e8e\u662fAD=AC+CD=12+3=15",
+    "ans_choice": "15"
+}

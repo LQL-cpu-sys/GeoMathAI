@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe\u6240\u793a,\u6cb3\u5824\u6a2a\u65ad\u9762\u8fce\u6c34\u5761AB\u7684\u5761\u6bd4\u662f1:2,\u5761\u9ad8BC=5m,\u5219\u5761\u9762AB\u7684\u957f\u5ea6()\u9009\u9879\uff1a['10m', '10\u221a{3}m', '5\u221a{3}m', '5\u221a{5}m']",
+    "decision": "",
+    "answer": "\u89e3:\u2235\u8fce\u6c34\u5761AB\u7684\u5761\u6bd4\u662f1:2,\u2234BC:AC=1:2,BC=5m,\u2234AC=10m,\u5219AB$=\u221a{AC^{2}+BC^{2}}=$5$\u221a{5}$m\uff0e\u6545\u9009:D\uff0e",
+    "ans_choice": "5\\sqrt{5}"
+}

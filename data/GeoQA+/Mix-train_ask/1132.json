@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u6d4b\u5f97BD=120m,DC=60m,EC=50m,\u5219\u5c0f\u6cb3\u5bbdAB\u7684\u957f\u662f()\u9009\u9879\uff1a['180m', '150m', '144m', '100m']",
+    "decision": "",
+    "answer": "\u89e3:\u2235\u2220ADB=\u2220EDC,\u2220ABC=\u2220ECD=90\u00b0,\u2234\u25b3ABD~\u25b3ECD,\u2234\\frac{AB}{EC}=\\frac{BD}{CD}\u2234AB=\\frac{BD\u00d7EC}{CD}=\\frac{120\u00d750}{60}=100(\u7c73).\u5219\u4e24\u5cb8\u95f4\u7684\u5927\u81f4\u8ddd\u79bb\u4e3a100\u7c73.\u6545\u9009:D.",
+    "ans_choice": "100"
+}

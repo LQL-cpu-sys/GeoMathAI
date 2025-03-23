@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u25b3ABC\u4e2d,DE\u2225BC,AQ\u22a5BC\u4e8eQ,\u4ea4DE\u4e8eP,AD=3,BD=2,\u5219\\frac{AP}{AQ}\u7b49\u4e8e()\u9009\u9879\uff1a['\\\\frac{3}{2}', '\\\\frac{3}{5}', '\\\\frac{4}{9}', '\\\\frac{9}{25}']",
+    "decision": "",
+    "answer": "\u89e3:\u2235DE\u2225BC,\u2234\\frac{AP}{AQ}=\\frac{AD}{AB}=\\frac{AD}{AD+BD}=\\frac{3}{3+2}=\\frac{3}{5}\uff0e\u6545\u9009:B\uff0e",
+    "ans_choice": "\\frac{3}{5}"
+}

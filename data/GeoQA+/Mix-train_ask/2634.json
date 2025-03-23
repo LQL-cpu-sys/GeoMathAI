@@ -1,0 +1,6 @@
+{
+    "query": "\u5c06\u4e00\u5f20\u77e9\u5f62\u7eb8\u7247ABCD(\u5982\u56fe)\u90a3\u6837\u6298\u8d77,\u4f7f\u9876\u70b9C\u843d\u5728C'\u5904,\u6d4b\u91cf\u5f97AB=4,DE=8\uff0e\u5219sin\u2220C'ED\u4e3a()\u9009\u9879\uff1a['2', '\\\\frac{1}{2}', '\\\\frac{\u221a{2}}{2}', '\\\\frac{\u221a{3}}{2}']",
+    "decision": "",
+    "answer": "\u89e3:\u2235\u25b3CDE\u224c\u25b3C\u2032DE,\u2234C\u2032D=CD\uff0e\u2235AB=4,DE=8,\u2234C\u2032D=4\uff0e\u2234sin\u2220C'ED=\\frac{C^{\u2032}D}{ED}=\\frac{4}{8}=\\frac{1}{2}\uff0e\n\u6545\u9009:B\uff0e",
+    "ans_choice": "\\frac{1}{2}"
+}

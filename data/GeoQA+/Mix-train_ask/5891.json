@@ -1,0 +1,6 @@
+{
+    "query": "\u5c0f\u4eae\u4e3a\u5ba3\u4f202010\u5e74\u4e0a\u6d77\u4e16\u535a\u4f1a,\u8bbe\u8ba1\u4e86\u5f62\u72b6\u5982\u56fe\u6240\u793a\u7684\u5f69\u65d7,\u56fe\u4e2d\u2220ACB=90\u00b0,\u2220D=15\u00b0,\u70b9A\u5728CD\u4e0a,AD=AB=4cm,\u5219AC\u7684\u957f\u4e3a()\u9009\u9879\uff1a['2cm', '2\u221a{3}c\u03c0', '4cm', '8cm']",
+    "decision": "",
+    "answer": "\u89e3:\u5982\u56fe,\u2235AD=AB=4cm,\u2220D=15\u00b0,\u2234\u2220ABD=\u2220D=15\u00b0,\u2234\u2220BAC=\u2220ABD+\u2220D=30\u00b0,\u2235\u2220ACB=90\u00b0,AB=4cm,\u2234BC=\\frac{1}{2}AB=2cm,\u5728Rt\u25b3ABC\u4e2d,AC=\u221a{AB^{2}-BC^{2}}=\u221a{4^{2}-2^{2}}=2\u221a{3}cm\uff0e\u6545\u9009:B\uff0e",
+    "ans_choice": "2\\sqrt{3}"
+}

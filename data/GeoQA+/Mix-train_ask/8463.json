@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u2299O\u662f\u25b3ABC\u7684\u5916\u63a5\u5706,\u2220B=60\u00b0,AC=8,\u5219\u2299O\u7684\u76f4\u5f84AD\u7684\u957f\u5ea6\u4e3a()\u9009\u9879\uff1a['16', '4', '\\\\frac{8\u221a{3}}{3}', '\\\\frac{16\u221a{3}}{3}']",
+    "decision": "",
+    "answer": "\u89e3:\u8fde\u63a5CD,\u2235AD\u662f\u2299O\u7684\u76f4\u5f84,\u2234\u2220ACD=90\u00b0,\u2235\u2220D=\u2220B=60\u00b0,AC=8,\u2234AD=\\frac{AC}{sin60\u00b0}=\\frac{16\u221a{3}}{3}\uff0e\u6545\u9009:D\uff0e",
+    "ans_choice": "\\frac{16\\sqrt{3}}{3}"
+}

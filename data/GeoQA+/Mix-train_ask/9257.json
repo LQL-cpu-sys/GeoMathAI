@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,E\u662f\u25b1ABCD\u5185\u4efb\u4e00\u70b9,\u82e5S~\u25b1ABCD~=8,\u5219\u9634\u5f71\u90e8\u5206\u7684\u9762\u79ef\u662f()\u9009\u9879\uff1a['3', '4', '5', '6']",
+    "decision": "",
+    "answer": "\u89e3:\u8bbe\u4e24\u4e2a\u9634\u5f71\u90e8\u5206\u4e09\u89d2\u5f62\u7684\u5e95\u4e3aBC,AD,\u9ad8\u5206\u522b\u4e3ah~1~,h~2~,\u5219h~1~+h~2~\u4e3a\u5e73\u884c\u56db\u8fb9\u5f62\u7684\u9ad8,\u2235\u56db\u8fb9\u5f62ABCD\u662f\u5e73\u884c\u56db\u8fb9\u5f62,\u2234AD=BC,\u2234S~\u25b3ECB~+S~\u25b3EAD~=\\frac{1}{2}BC\u2022h~1~+\\frac{1}{2}AD\u2022h~2~=\\frac{1}{2}BC(h~1~+h~2~)=\\frac{1}{2}S~\u56db\u8fb9\u5f62ABCD~=\\frac{1}{2}\u00d78=4\uff0e\u6545\u9009:B\uff0e",
+    "ans_choice": "4"
+}

@@ -1,0 +1,6 @@
+{
+    "query": "\u5728\u25b3ABC\u4e2d,DE\u2225BC,AE:EC=2:3,DE=4,\u5219BC\u7b49\u4e8e()\u9009\u9879\uff1a['10', '8', '9', '6']",
+    "decision": "",
+    "answer": "\u89e3:\u2235DE\u2225BC,\u2234\u25b3ADE\u223d\u25b3ABC,\u2234\\frac{AE}{AC}=\\frac{DE}{BC},\u2234\\frac{2}{2+3}=\\frac{4}{BC},\u2234BC=10\uff0e\u6545\u9009:A\uff0e",
+    "ans_choice": "10"
+}

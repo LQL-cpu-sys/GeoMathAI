@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5c06\u25b3ABC\u6cbf\u7740\u70b9B\u5230C\u7684\u65b9\u5411\u5e73\u79fb\u5230\u25b3DEF\u7684\u4f4d\u7f6e,AB=10,DO=4,\u5e73\u79fb\u8ddd\u79bb\u4e3a6,\u5219\u9634\u5f71\u90e8\u5206\u9762\u79ef\u4e3a()\u9009\u9879\uff1a['42', '96', '84', '48']",
+    "decision": "",
+    "answer": "\u7531\u5e73\u79fb\u7684\u6027\u8d28\u77e5,BE=6,DE=AB=10,\u2234OE=DE-DO=10-4=6,\u2234S_{\u56db\u8fb9\u5f62ODF}=S_{\u68af\u5f62ABEO}=\\frac{1}{2}(AB+OE)\\cdotBE=\\frac{1}{2}(10+6)\u00d76=48.\u6545\u9009D.",
+    "ans_choice": "48"
+}

@@ -1,0 +1,8 @@
+{
+    "query": "\u5982\u56fe\uff0c\u82e5CD\u662f\u25b3ABC\u7684\u4e2d\u7ebf\uff0cAB\uff1d10\uff0c\u5219BD\uff1d\uff08\uff09\u9009\u9879\uff1a['6', '5', '8', '4']",
+    "decision": "",
+    "answer": "\u2235CD\u662f\u25b3ABC\u7684\u4e2d\u7ebf\uff0cAB\uff1d10\uff0c\u2234BD\uff1d0.5\u00d7AB\uff1d5\uff0e\u6545\u9009\uff1aB\uff0e",
+    "ans_choice": [
+        "5"
+    ]
+}

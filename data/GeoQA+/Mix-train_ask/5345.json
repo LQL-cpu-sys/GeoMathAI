@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u82e5CD\u662f\u25b3ABC\u7684\u4e2d\u7ebf,AB=10,\u5219AD=()\u9009\u9879\uff1a['5', '6', '8', '4']",
+    "decision": "",
+    "answer": "\u3010\u89e3\u7b54\u3011\u89e3:\u2235\u5982\u56fe,\u82e5CD\u662f\u25b3ABC\u7684\u4e2d\u7ebf,AB=10,\u2234AD=BD=\\frac{1}{2}AB=5\uff0e",
+    "ans_choice": "5"
+}

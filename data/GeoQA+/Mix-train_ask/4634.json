@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,AB\u2225CD,AC\u3001BD\u4ea4\u4e8e\u70b9O,\u82e5DO=3,BO=5,DC=4,\u5219AB\u957f\u4e3a()\u9009\u9879\uff1a['6', '8', '\\\\frac{20}{3}', '\\\\frac{15}{4}']",
+    "decision": "",
+    "answer": "\u89e3:\u2235AB\u2225CD,\u2234DO:BO=CD:AB,\u53733:5=4:AB,\u2234AB=\\frac{20}{3}\uff0e\u6545\u9009:C\uff0e",
+    "ans_choice": "\\frac{20}{3}"
+}

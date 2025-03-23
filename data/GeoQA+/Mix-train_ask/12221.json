@@ -1,0 +1,8 @@
+{
+    "query": "\u5982\u56fe\uff0c\u5728\u25b3ABC\u4e2d\uff0cDE\u2225BC\uff0e\u82e5AD\uff1aAB\uff1d0.5\uff0cS\u25b3ADE\uff1d3\uff0c\u5219S\u25b3ABC\uff1d\uff08\uff09\u9009\u9879\uff1a['4', '8', '9', '12']",
+    "decision": "",
+    "answer": "\u2235DE\u2225BC\uff0c\u2234\u25b3ADE\u223d\u25b3ABC\uff0c\u2234\\frac{S\u25b3ADE}{S\u25b3ABC}=(\\frac{AD}{AB})2\uff0c\u2234\\frac{3}{S\u25b3ABC}\uff1d0.25\uff0c\u2234S\u25b3ABC\uff1d12\uff0e\u6545\u9009\uff1aD\uff0e",
+    "ans_choice": [
+        "12"
+    ]
+}

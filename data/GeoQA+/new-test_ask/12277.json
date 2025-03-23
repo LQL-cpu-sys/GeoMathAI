@@ -1,0 +1,8 @@
+{
+    "query": "\u5982\u56fe\uff0c\u5728\u25b3ABC\u4e2d\uff0c\u2220C\uff1d90\u00b0\uff0cBE\u5e73\u5206\u2220ABC\uff0cDE\u22a5AB\u4e8eD\uff0cAC\uff1d4cm\uff0c\u90a3\u4e48AE+DE\uff1d\uff08\uff09\u9009\u9879\uff1a['1cm', '2cm', '3cm', '4cm']",
+    "decision": "",
+    "answer": "\u2235BE\u5e73\u5206\u2220ABC\uff0cDE\u22a5AB\uff0cEC\u22a5BC\uff0c\u2234ED\uff1dEC\uff0c\u2234AE+DE\uff1dAE+EC\uff1dAC\uff1d4cm\uff0e\u6545\u9009\uff1aD\uff0e",
+    "ans_choice": [
+        "4cm"
+    ]
+}

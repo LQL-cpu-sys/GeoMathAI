@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u70b9A,B,C,F,G,H\u5728\u540c\u4e00\u6c34\u5e73\u7ebf\u4e0a,DE\u2225AB,\u73b0\u5206\u522b\u4ee5AB,CD,EF,GH\u4e3a\u8fb9\u957f\u4f5c\u56db\u4e2a\u6b63\u65b9\u5f62,\u5176\u4e2dAB=2,CD=3,EF=5,\u5219GH=()\u9009\u9879\uff1a['2\u221a{3}', '2\u221a{5}', '4', '4\u221a{2}']",
+    "decision": "",
+    "answer": "\u89e3:\u4f5cDP\u22a5AH\u4e8eP,EQ\u22a5AH\u4e8eQ,\u5728Rt\u25b3MCB\u4e2d,BC=\u221a{CM\u00b2-BM\u00b2}=\u221a{5},\u2235\u2220MBC=\u2220MCP=\u2220CPD=90\u00b0,\u2234\u2220MCB=\u2220CDP,\u5728\u25b3MCB\u548c\u25b3CDP\u4e2d,\\begin{cases}\u2220MCB=\u2220CDP\\\\\u2220CBM=\u2220DPC\\\\CM=CD\\\\\\end{cases},\u2234\u25b3MCB\u224c\u25b3CDP,\u2234DP=BC=\u221a{5},\u2235DP\u22a5AH,EQ\u22a5AH,DE\u2225AB,\u2234\u56db\u8fb9\u5f62DPQE\u662f\u77e9\u5f62,\u2234EQ=DP=\u221a{5},\u2234QF=\u221a{EF\u00b2-EQ\u00b2}=2\u221a{5},\u540c\u7406,\u25b3FEQ\u224c\u25b3NFG,\u2234NG=QF=2\u221a{5},\u2234GH=2\u221a{5},\u6545\u9009:B\uff0e",
+    "ans_choice": "2\\sqrt{5}"
+}

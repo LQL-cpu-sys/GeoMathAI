@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u25b3AOB\u4e2d,\u2220AOB=120\u00b0,BD,AC\u662f\u4e24\u6761\u9ad8,\u8fde\u63a5CD,\u82e5AB=4,\u5219DC\u7684\u957f\u4e3a()\u9009\u9879\uff1a['\u221a{3}', '2', '\\\\frac{3\u221a{3}}{2}', '\\\\frac{3\u221a{3}}{4}']",
+    "decision": "",
+    "answer": "\u89e3:\u5982\u56fe\u5ef6\u957fAD\u3001BC\u4ea4\u4e8e\u70b9M\uff0e\u2235\u2220AOB=120\u00b0,\u2234\u2220DOA=\u2220COB=60\u00b0,\u2235AD\u22a5BD,AC\u22a5BC,\u2234\u2220ADM=\u2220MDB=\u2220ACB=\u2220ACM=90\u00b0,\u2234\u2220MAC=\u2220MBD=30\u00b0,\u2234\u25b3MAC\u223d\u25b3MBD,\u2234\\frac{MA}{MB}=\\frac{MC}{MD},\u2234\\frac{MA}{MC}=\\frac{MB}{MD},\u2220M=\u2220M,\u2234\u25b3MDC\u223d\u25b3MBA,\u2234\\frac{DC}{AB}=\\frac{MD}{MB},\u5728RT\u25b3MBD\u4e2d,\u2235\u2220MBD=30\u00b0,\u2234MB=2MD,\u2235AB=4,\u2234\\frac{DC}{4}=\\frac{1}{2},\u2234DC=2\uff0e\u6545\u9009:B\uff0e",
+    "ans_choice": "2"
+}

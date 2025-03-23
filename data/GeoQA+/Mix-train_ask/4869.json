@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\\frac{AD}{DB}=\\frac{AE}{EC}=2,\u5219\\frac{AB}{DB}=()\u9009\u9879\uff1a['\\\\frac{1}{2}', '2', '\\\\frac{1}{3}', '3']",
+    "decision": "",
+    "answer": "\u89e3:\u2235\\frac{AD}{DB}=\\frac{AE}{EC}=2,\u8bbeAD=2k,BD=k,\u2234AB=3k,\u2234\\frac{AD}{DB}=\\frac{3k}{k}=3\u6545\u9009:D\uff0e",
+    "ans_choice": "3"
+}

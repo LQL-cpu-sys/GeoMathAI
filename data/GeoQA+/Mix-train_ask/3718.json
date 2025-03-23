@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u2299O\u662f\u25b3ABP\u7684\u5916\u63a5\u5706,\u534a\u5f84r=2,\u2220APB=45\u00b0,\u5219\u5f26AB\u7684\u957f\u4e3a()\u9009\u9879\uff1a['\u221a{2}', '2', '2\u221a{2}', '4']",
+    "decision": "",
+    "answer": "\u89e3:\u8fde\u63a5OA\u3001OB,\u5982\u56fe\u6240\u793a:\n\u5219\u2220AOB=2\u2220APB=90\u00b0,\u2235OA=OB=r=2,\u2234AB=\u221a{0A^{2}+0B^{2}}=\u221a{2^{2}+2^{2}}=2\u221a{2}\uff1b\n\u6545\u9009:C\uff0e",
+    "ans_choice": "2\\sqrt{2}"
+}

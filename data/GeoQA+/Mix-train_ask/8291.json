@@ -1,0 +1,6 @@
+{
+    "query": "\u5c0f\u660e\u4e3a\u4e86\u6d4b\u91cf\u6c34\u9762\u5bbd\u5ea6AB,\u4eceC\u70b9\u5206\u522b\u6d4b\u5f97A,B\u4e24\u70b9\u7684\u4fef\u89d2\u5206\u522b\u4e3a60\u00b0,30\u00b0,C\u70b9\u5230\u6c34\u9762\u7684\u8ddd\u79bbCD=8\u7c73,\u5219AB\u7b49\u4e8e()\u9009\u9879\uff1a['\u221a{3}', '\\\\frac{8\u221a{3}}{3}', '\\\\frac{16\u221a{3}}{3}', '8\u221a{3}']",
+    "decision": "",
+    "answer": "\u89e3:\u2235DC\u22a5CE,\u2220BCE=30\u00b0,\u2220ACE=60\u00b0,\u2234\u2220BCD=60\u00b0,\u2220ACD=30\u00b0\u2235tan60\u00b0=\\frac{BD}{CD}=\u221a{3},tan30\u00b0=\\frac{\u221a{3}}{3}=\\frac{AD}{CD},CD=8,\u2234BD=8\u221a{3},AD=\\frac{8\u221a{3}}{3},\u2234AB=8\u221a{3}-\\frac{8\u221a{3}}{3}=\\frac{16\u221a{3}}{3},\u2234C\u7b54\u6848\u6b63\u786e\uff0e\u6545\u9009:C\uff0e",
+    "ans_choice": "\\frac{16\\sqrt{3}}{3}"
+}

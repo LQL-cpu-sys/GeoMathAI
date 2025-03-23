@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5df2\u77e5\u2220ACB=60\u00b0,PC=12,\u70b9M,N\u5728\u8fb9CB\u4e0a,PM=PN\uff0e\u82e5MN=3,\u5219CM\u7684\u957f\u4e3a()\u9009\u9879\uff1a['3', '3.5', '4', '4.5']",
+    "decision": "",
+    "answer": "\u89e3:\u8fc7\u70b9P\u4f5cPD\u22a5CB\u4e8e\u70b9D,\u2235\u2220ACB=60\u00b0,PD\u22a5CB,PC=12,\u2234DC=6,\u2235PM=PN,MN=3,PD\u22a5OB,\u2234MD=ND=1.5,\u2234CM=6-1.5=4.5\uff0e\u6545\u9009:D\uff0e",
+    "ans_choice": "4.5"
+}

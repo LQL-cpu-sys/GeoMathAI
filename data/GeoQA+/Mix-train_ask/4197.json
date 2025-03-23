@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,AB\u662f\u2299O\u7684\u76f4\u5f84,C\u662f\u2299O\u4e0a\u7684\u70b9,\u8fc7\u70b9C\u4f5c\u2299O\u7684\u5207\u7ebf\u4ea4AB\u7684\u5ef6\u957f\u7ebf\u4e8e\u70b9E,\u82e5\u2220A=30\u00b0,\u5219sin\u2220E\u7684\u503c\u4e3a()\u9009\u9879\uff1a['\\\\frac{1}{2}', '\\\\frac{\u221a{2}}{2}', '\\\\frac{\u221a{3}}{2}', '\\\\frac{\u221a{3}}{3}']",
+    "decision": "",
+    "answer": "\u89e3:\u8fde\u63a5OC,\u2235CE\u662f\u2299O\u5207\u7ebf,\u2234OC\u22a5CE,\u2235\u2220A=30\u00b0,\u2234\u2220BOC=2\u2220A=60\u00b0,\u2234\u2220E=90\u00b0-\u2220BOC=30\u00b0,\u2234sin\u2220E=sin30\u00b0=\\frac{1}{2}\uff0e\u6545\u9009:A\uff0e",
+    "ans_choice": "\\frac{\\sqrt{2}}{2}"
+}

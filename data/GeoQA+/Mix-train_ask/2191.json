@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5706\u9525\u5f62\u51b0\u6dc7\u6dcb\u7684\u6bcd\u7ebf\u957f\u662f13cm,\u9ad8\u662f12cm,\u5219\u5b83\u7684\u4fa7\u9762\u79ef\u662f()\u9009\u9879\uff1a['10\u03c0cm^{2}', '25\u03c0cm^{2}', '60\u03c0cm^{2}', '65\u03c0cm^{2}']",
+    "decision": "",
+    "answer": "\u89e3:\u5706\u9525\u7684\u6bcd\u7ebfAB=13cm,\u5706\u9525\u7684\u9ad8AO=12cm,\u5706\u9525\u7684\u5e95\u9762\u534a\u5f84OB=r,\u5728Rt\u25b3AOB\u4e2d,r=\u221a{1^{2}-h^{2}}=\u221a{13^{2}-12^{2}}=5(cm),\u2234S=\u03c0rl=\u03c0\u00d75\u00d713=65\u03c0cm^{2}\uff0e\u6545\u9009:D\uff0e",
+    "ans_choice": "65\\pi"
+}

@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u70b9A\u3001B\u3001C\u90fd\u5728\u2299O\u4e0a,\u82e5\u2220BAO=40\u00b0,\u5219\u2220C\u7684\u5ea6\u6570\u4e3a()\u9009\u9879\uff1a['40\u00b0', '50\u00b0', '80\u00b0', '100\u00b0']",
+    "decision": "",
+    "answer": "\u89e3:\u2235OA=OB,\u2220BAO=40\u00b0,\u2234\u2220ABO=\u2220BAO=40\u00b0,\u2234\u2220AOB=180\u00b0-\u2220BAO-\u2220ABO=100\u00b0,\u2234\u2220C=\\frac{1}{2}\u2220AOB=50\u00b0\uff0e\u6545\u9009:B\uff0e",
+    "ans_choice": "50"
+}

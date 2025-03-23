@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728\u25b1ABCD\u4e2d,EF\u8fc7\u5bf9\u89d2\u7ebf\u7684\u4ea4\u70b9O,AB=4,AD=5,OF=2,\u5219\u56db\u8fb9\u5f62BAEF\u7684\u5468\u957f\u4e3a()\u9009\u9879\uff1a['22', '18', '13', '11']",
+    "decision": "",
+    "answer": "\u89e3:\u5728\u25b1ABCD\u4e2d,AD\u2225BC,OB=OD,\u2234\u2220EDO=\u2220FBO,\u5728\u25b3BOF\u548c\u25b3DOE\u4e2d,\u2265ft\\{\\begin{matrix}\u2220EDO=\u2220FBO\\\\OB=OD\\\\\u2220EOD=\u2220FOB(\u5bf9\u9876\u89d2\u76f8\u7b49)\\\\\\end{matrix}\\right.\\,\u2234\u25b3BOF\u224c\u25b3DOE(ASA),\u2234OE=OF,BF=DE,\u56db\u8fb9\u5f62BAEF\u7684\u5468\u957f=AB+BF+EF+AE=AB+DE+2OF+AE=AB+AD+2OF,\u2235AB=4,AD=5,OF=2,\u2234\u56db\u8fb9\u5f62BAEF\u7684\u5468\u957f=4+5+2\u00d72=13\uff0e\u6545\u9009:C\uff0e",
+    "ans_choice": "13"
+}

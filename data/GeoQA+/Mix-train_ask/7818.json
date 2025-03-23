@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5df2\u77e5\u56db\u8fb9\u5f62ABCD\u5185\u63a5\u4e8e\u2299O,\u76f4\u5f84AC=6,\u5bf9\u89d2\u7ebfAC\u3001BD\u4ea4\u4e8eE\u70b9,\u4e14AB=BD,EC=1,\u5219AD\u7684\u957f\u4e3a()\u9009\u9879\uff1a['\\\\frac{3\u221a{15}}{2}', '\\\\frac{17}{3}', '\\\\frac{11}{2}', '3\u221a{2}']",
+    "decision": "",
+    "answer": "\u89e3:\u5982\u56fe,\u8fde\u63a5BO\u5e76\u5ef6\u957f\u4ea4AD\u4e8e\u70b9F,\u8fde\u63a5OD,\u2235OD=OA,BD=BA,\u2234BO\u4e3aAD\u7684\u5782\u76f4\u5e73\u5206\u7ebf,\u2235AC\u4e3a\u76f4\u5f84,\u2234CD\u22a5AD,\u2234\u2220BFA=\u2220CDA,\u2234BO\u2225CD,\u2234\u25b3CDE\u223d\u25b3OBE,\u2234\\frac{CD}{BO}=\\frac{CE}{OE},\u2235OB=OC=3,CE=1,\u2234OE=2,\u2234\\frac{CD}{3}=\\frac{1}{2},\u2234CD=\\frac{3}{2},\u5728Rt\u25b3ACD\u4e2d,\u7531\u52fe\u80a1\u5b9a\u7406\u53ef\u5f97AD=\u221a{AC\u00b2-CD\u00b2}=\u221a{6\u00b2-(\\frac{3}{2})\u00b2}=\u221a{\\frac{135}{4}}=\\frac{3\u221a{15}}{2},\u6545\u9009:A\uff0e",
+    "ans_choice": "\\frac{3\\sqrt{15}}{2}"
+}

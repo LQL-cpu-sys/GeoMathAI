@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,BD=CD,AE:DE=1:2,\u5ef6\u957fBE\u4ea4AC\u4e8eF,\u4e14AF=4cm,\u5219AC\u7684\u957f\u4e3a()\u9009\u9879\uff1a['24cm', '20cm', '12cm', '8cm']",
+    "decision": "",
+    "answer": "\u89e3:\u8fc7D\u4f5cDG\u2225BF\u4ea4AC\u4e8eG,\u5219\u25b3AEF\u223d\u25b3ADG,\u2235BD=CD,\u2234CG=GF,AF:FG=AE:ED=1:2,\u2235AF=4cm,\u2234FG=2AF=8cm=CG,\u2234AC=AF+FG+CG=20cm\uff0e\u6545\u9009:B\uff0e",
+    "ans_choice": "20"
+}

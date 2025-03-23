@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5de6\u3001\u53f3\u5e76\u6392\u7684\u4e24\u68f5\u6811AB\u548cCD,\u5c0f\u6811\u7684\u9ad8AB=6m,\u5927\u6811\u7684\u9ad8CD=9m,\u5c0f\u660e\u4f30\u8ba1\u81ea\u5df1\u773c\u775b\u8ddd\u5730\u9762EF=1.5m,\u5f53\u4ed6\u7ad9\u5728F\u70b9\u65f6\u6070\u597d\u770b\u5230\u5927\u6811\u9876\u7aefC\u70b9\uff0e\u5df2\u77e5\u6b64\u65f6\u4ed6\u4e0e\u5c0f\u6811\u7684\u8ddd\u79bbBF=2m,\u5219\u4e24\u68f5\u6811\u4e4b\u95f4\u7684\u8ddd\u79bbBD\u662f()\u9009\u9879\uff1a['1m', '\\\\frac{4}{3}m', '3m', '\\\\frac{10}{3}m']",
+    "decision": "",
+    "answer": "\u89e3:\u7531\u9898\u610f\u5f97:FB=EG=2m,AG=AB-BG=6-1.5=4.5m,CH=CD-DH=9-1.5=7.5m,\u2235AG\u22a5EH,CH\u22a5EH,\u2234\u2220AGE=\u2220CHE=90\u00b0,\u2235\u2220AEG=\u2220CEH,\u2234\u25b3AEG\u223d\u25b3CEH,\u2234\\frac{EG}{AG}=\\frac{EH}{CH}=\\frac{EG+GH}{CH},\u5373\\frac{2}{4.5}=\\frac{2+GH}{7.5},\u89e3\u5f97:GH=\\frac{4}{3},\u5219BD=GH=\\frac{4}{3}m,\u6545\u9009:B\uff0e",
+    "ans_choice": "\\frac{4}{3}"
+}

@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,l_{1}\u2225l_{2}\u2225l_{3},AB=3,AD=2,DE=4,EF=7.5,\u5219BE=()\u9009\u9879\uff1a['4', '4.5', '5', '5.5']",
+    "decision": "",
+    "answer": "\u89e3:\u2235l_{1}\u2225l_{2}\u2225l_{3},\u2234\\frac{FB}{BE}=\\frac{AD}{DE},\u5373\\frac{BF}{BE}=\\frac{2}{4},\u2234BF=\\frac{1}{2}BE,\u2234\\frac{1}{2}BE+BE=7.5,\u2234BE=5\uff0e\u6545\u9009:C\uff0e",
+    "ans_choice": "5"
+}

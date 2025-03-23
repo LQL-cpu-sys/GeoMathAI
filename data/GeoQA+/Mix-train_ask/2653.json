@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728\u25b3ABC\u4e2d,\u2220C=90\u00b0,AB=5,AC=3,\u5219tanB\u7684\u503c\u4e3a()\u9009\u9879\uff1a['\\\\frac{4}{3}', '\\\\frac{3}{4}', '\\\\frac{3}{5}', '\\\\frac{4}{5}']",
+    "decision": "",
+    "answer": "\u89e3:\u7531\u52fe\u80a1\u5b9a\u7406,\u5f97\nBC=\u221a{AB^{2}-AC^{2}}=4\uff0e\ntanB=\\frac{AC}{BC}=\\frac{3}{4},\n\u6545\u9009:B\uff0e",
+    "ans_choice": "\\frac{3}{4}"
+}

@@ -1,0 +1,8 @@
+{
+    "query": "\u5982\u56fe\uff0c\u5df2\u77e5\u76f4\u7ebfl1\u2225l2\u2225l3\uff0c\u76f4\u7ebfm\u3001n\u4e0e\u76f4\u7ebfl1\u3001l2\u3001l3\u4ea4\u4e8e\u70b9A\u3001B\u3001C\u53ca\u70b9D\uff0cE\uff0cF\uff0e\u5df2\u77e5AB\uff1d2\uff0cBC\uff1d3\uff0cDE\uff1d4\uff0c\u5219EF\uff1d\uff08\uff09\u9009\u9879\uff1a['5', '6', '7', '8']",
+    "decision": "",
+    "answer": "\u2235l1\u2225l2\u2225l3\uff0c\u2234\\frac{AB}{BC}=\\frac{DE}{EF}\uff0c\u5373\\frac{2}{3}=\\frac{4}{EF}\uff0c\u2234EF\uff1d6\uff0e\u6545\u9009\uff1aB\uff0e",
+    "ans_choice": [
+        "6"
+    ]
+}

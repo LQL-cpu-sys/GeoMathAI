@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe\u6240\u793a,\u5728\u25b1ABCD\u4e2d,AB=10cm,AB\u8fb9\u4e0a\u7684\u9ad8DH=4cm,BC=6cm,\u6c42BC\u8fb9\u4e0a\u7684\u9ad8DF\u7684\u957f()\u9009\u9879\uff1a['15cm', '10cm', '17cm', '\\\\frac{20}{3}cm']",
+    "decision": "",
+    "answer": "\u89e3:\u2235\u56db\u8fb9\u5f62ABCD\u662f\u5e73\u884c\u56db\u8fb9\u5f62,\u4e14DH\u4e0eDF\u662f\u9ad8,\u2234S~\u25b1ABCD~=AB\u2022DH=BC\u2022DF,\u2235AB=10cm,DH=4cm,BC=6cm,\u2234DF=\\frac{AB\\cdotDH}{DF}=\\frac{10\u00d74}{6}=\\frac{20}{3}(cm)\uff0e\u6545\u9009:D\uff0e",
+    "ans_choice": "\\frac{20}{3}"
+}

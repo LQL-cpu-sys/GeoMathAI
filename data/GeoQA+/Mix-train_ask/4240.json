@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe\uff0e\u5df2\u77e5AB\u4e3a\u2299O\u7684\u76f4\u5f84,AB=2,AD\u548cBE\u662f\u2299O\u7684\u4e24\u6761\u5207\u7ebf,A\u3001B\u4e3a\u5207\u70b9,\u8fc7\u5706\u4e0a\u4e00\u70b9C\u4f5c\u2299O\u7684\u5207\u7ebfCF,\u5206\u522b\u4ea4AD\u3001BE\u4e8e\u70b9M\u3001N,\u8fde\u63a5AC\u3001CB\uff0e\u82e5\u2220ABC=30\u00b0,\u5219AM\u7684\u957f\u662f()\u9009\u9879\uff1a['\\\\frac{\u221a{3}}{3}', '\\\\frac{2\u221a{3}}{3}', '\u221a{3}', '\\\\frac{1}{3}']",
+    "decision": "",
+    "answer": "\u89e3:\u8fde\u63a5OM,OC,\u2235OB=OC,\u4e14\u2220ABC=30\u00b0,\u2234\u2220BCO=\u2220ABC=30\u00b0,\u2235\u2220AOC\u4e3a\u25b3BOC\u7684\u5916\u89d2,\u2234\u2220AOC=2\u2220ABC=60\u00b0,\u2235MA,MC\u5206\u522b\u4e3a\u5706O\u7684\u5207\u7ebf,\u2234MA=MC,\u4e14\u2220MAO=\u2220MCO=90\u00b0,\u5728Rt\u25b3AOM\u548cRt\u25b3COM\u4e2d,\\begin{cases}MA=MC\\\\OM=OM\\end{cases},\u2234Rt\u25b3AOM\u224cRt\u25b3COM(HL),\u2234\u2220AOM=\u2220COM=\\frac{1}{2}\u2220AOC=30\u00b0,\u5728Rt\u25b3AOM\u4e2d,OA=\\frac{1}{2}AB=1,\u2220AOM=30\u00b0,\u2234tan30\u00b0=\\frac{AM}{OA},\u5373\\frac{\u221a{3}}{3}=\\frac{AM}{1},\u89e3\u5f97:AM=\\frac{\u221a{3}}{3}\uff0e\u6545\u9009:A\uff0e",
+    "ans_choice": "\\frac{\\sqrt{3}}{3}"
+}

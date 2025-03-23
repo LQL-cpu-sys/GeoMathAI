@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5df2\u77e5\u25b3ABC\u548c\u25b3DEC\u7684\u9762\u79ef\u76f8\u7b49,\u70b9E\u5728BC\u8fb9\u4e0a,DE\u2225AB\u4ea4AC\u4e8e\u70b9F,AB=6,EF=4,\u5219DF\u7684\u957f\u662f()\u9009\u9879\uff1a['3', '4', '5', '6']",
+    "decision": "",
+    "answer": "\u89e3:\u4f5cCM\u22a5AB\u4ea4EF\u4e8eN,\u5782\u8db3\u4e3aM\uff0e\u2235EF\u2225AB,\u2234\u25b3CEF\u223d\u25b3CBA,\u2234\\frac{EF}{AB}=\\frac{CN}{CM}=\\frac{4}{6}=\\frac{2}{3},\u8bbeCN=2h,CM=3h,\u5219MN=h,\u2235S~\u25b3ABC~=S~\u25b3CED~,\u2234S~\u56db\u8fb9\u5f62ABEF~=S~\u25b3DFC~,\u2234\\frac{1}{2}(AB+EF)\u2022MN=\\frac{1}{2}\u2022DF\u2022CN,\u2234\\frac{1}{2}(4+6)\u2022h=\\frac{1}{2}\u2022DF\u20222h,\u2234DF=5,\u6545\u9009:C\uff0e",
+    "ans_choice": "5"
+}

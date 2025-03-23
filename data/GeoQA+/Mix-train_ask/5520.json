@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe:\u5df2\u77e5AD\u2225BE\u2225CF,\u4e14AB=4,BC=5,EF=4,\u5219DE=()\u9009\u9879\uff1a['5', '3', '3.2', '4']",
+    "decision": "",
+    "answer": "\u89e3:\u2235AD\u2225BE\u2225CF,\u2234\\frac{AB}{BC}=\\frac{DE}{EF},\u5373\\frac{4}{5}=\\frac{DE}{4},\u89e3\u5f97,DE=3.2,\u6545\u9009:C\uff0e",
+    "ans_choice": "3.2"
+}

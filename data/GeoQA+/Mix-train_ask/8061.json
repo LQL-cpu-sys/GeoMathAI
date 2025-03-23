@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5761\u89d2\u4e3a30\u00b0\u7684\u659c\u5761\u4e0a\u4e24\u6811\u95f4\u7684\u6c34\u5e73\u8ddd\u79bbAC\u4e3a2m,\u5219\u4e24\u6811\u95f4\u7684\u5761\u9762\u8ddd\u79bbAB\u4e3a()\u9009\u9879\uff1a['4m', '\u221a{3}', '\\\\frac{4\u221a{3}}{3}m', '4\u221a{3}m']",
+    "decision": "",
+    "answer": "\u89e3:\u2235AC=2,\u2220A=30\u00b0\uff0e\u2234AB=\\frac{AC}{cosA}=\\frac{2}{cos30{^\u00b0}}=\\frac{4\u221a{3}}{3},\u6545\u9009C\uff0e",
+    "ans_choice": "\\frac{4\\sqrt{3}}{3}"
+}

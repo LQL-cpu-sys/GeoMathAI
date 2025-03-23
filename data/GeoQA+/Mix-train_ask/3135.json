@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,AB\u662f\u2299O\u7684\u76f4\u5f84,C\u662f\u2299O\u4e0a\u7684\u4e00\u70b9,OD\u22a5BC\u4e8e\u70b9D,AC=6,\u5219OD\u7684\u957f\u4e3a()\u9009\u9879\uff1a['2', '3', '3.5', '4']",
+    "decision": "",
+    "answer": "\u89e3:\u2235OD\u22a5BC,\u2234CD=BD,\u2235OA=OB,AC=6,\u2234OD=\\frac{1}{2}AC=3\uff0e\n\u6545\u9009:B\uff0e",
+    "ans_choice": "3"
+}

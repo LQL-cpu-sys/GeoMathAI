@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728Rt\u25b3ABC\u4e2d,CD\u662f\u659c\u8fb9AB\u4e0a\u7684\u4e2d\u7ebf,\u5df2\u77e5CD=5,AC=6,\u5219tanB\u7684\u503c\u662f()\u9009\u9879\uff1a['\\\\frac{4}{5}', '\\\\frac{3}{5}', '\\\\frac{3}{4}', '\\\\frac{4}{3}']",
+    "decision": "",
+    "answer": "\u89e3:\u2235CD\u662f\u659c\u8fb9AB\u4e0a\u7684\u4e2d\u7ebf,CD=5,\u2234AB=2CD=10,\n\u6839\u636e\u52fe\u80a1\u5b9a\u7406,BC=\u221a{AB^{2}-AC^{2}}=\u221a{10^{2}-6^{2}}=8,\ntanB=\\frac{AC}{BC}=\\frac{6}{8}=\\frac{3}{4}\uff0e\n\u6545\u9009:C\uff0e",
+    "ans_choice": "\\frac{3}{4}"
+}

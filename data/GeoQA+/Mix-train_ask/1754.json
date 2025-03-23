@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u70b9A,B,C,D\u90fd\u5728\u534a\u5f84\u4e3a3\u7684\u2299O\u4e0a,\u82e5OA\u22a5BC,\u2220CDA=30\u00b0,\u5219\u5f26BC\u7684\u957f\u4e3a()\u9009\u9879\uff1a['\\\\frac{3\u221a{3}}{2}', '3\u221a{3}', '3', '2\u221a{3}']",
+    "decision": "",
+    "answer": "\u89e3:OA\u4ea4BC\u4e8eE,\u5982\u56fe,\u2235OA\u22a5BC,\u2234\u2040{AC}=\u2040{AB},CE=BE,\u2234\u2220AOB=2\u2220CDA=2\u00d730\u00b0=60\u00b0,\u5728Rt\u25b3OBE\u4e2d,OE=\\frac{1}{2}OB=\\frac{3}{2},\u2234BE=\u221a{3}OE=\\frac{3\u221a{3}}{2},\u2234BC=2BE=3\u221a{3}\uff0e\u6545\u9009:B\uff0e",
+    "ans_choice": "3\\sqrt{3}"
+}

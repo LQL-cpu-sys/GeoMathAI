@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728Rt\u25b3ACB\u4e2d,\u2220C=90\u00b0,\u2220A=37\u00b0,AC=4,\u5219BC\u7684\u957f\u7ea6\u4e3a()(sin37\u00b0\u22480.60,\\cos37\u00b0\u22480.80,tan37\u00b0\u22480.75)\u9009\u9879\uff1a['2.4', '3.0', '3.2', '5.0']",
+    "decision": "",
+    "answer": "\u89e3:\u5728Rt\u25b3ACB\u4e2d,tanA=\\frac{BC}{AC},\n\u5219BC=AC\u2022tanA\u22484\u00d70.75=3,\n\u6545\u9009:B\uff0e",
+    "ans_choice": "3.0"
+}

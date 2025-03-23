@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728\u25b3ABC\u4e2d,E\u3001F\u5206\u522b\u662fAB\u3001AC\u4e0a\u7684\u70b9,EF\u2225BC,\u4e14\\frac{AE}{EB}=\\frac{1}{2},\u82e5\u25b3AEF\u7684\u9762\u79ef\u4e3a2,\u5219\u56db\u8fb9\u5f62EBCF\u7684\u9762\u79ef\u4e3a()\u9009\u9879\uff1a['4', '6', '16', '18']",
+    "decision": "",
+    "answer": "\u89e3:\u2235\\frac{AE}{EB}=\\frac{1}{2},\u2234\\frac{AE}{AB}=\\frac{1}{3},\u2235EF\u2225BC,\u2234\u25b3AEF\u223d\u25b3ABC,\u2234\\frac{S_{\\bigtriangleupAEF}}{S_{\\bigtriangleupABC}}=(\\frac{AE}{AB})\u00b2=(\\frac{1}{3})\u00b2=\\frac{1}{9},\u2235\u25b3AEF\u7684\u9762\u79ef\u4e3a2,\u2234S~\u25b3ABC~=18,\u5219S~\u56db\u8fb9\u5f62EBCF~=S~\u25b3ABC~-S~\u25b3AEF~=18-2=16\uff0e\u6545\u9009:C\uff0e",
+    "ans_choice": "16"
+}

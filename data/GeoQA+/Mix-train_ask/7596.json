@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728\u5e73\u884c\u56db\u8fb9\u5f62ABCD\u4e2d,AB=4,\u2220BAD\u7684\u5e73\u5206\u7ebf\u4e0eBC\u7684\u5ef6\u957f\u7ebf\u4ea4\u4e8e\u70b9E,\u4e0eDC\u4ea4\u4e8e\u70b9F,\u4e14DF:CF=3:1,DG\u22a5AE,\u5782\u8db3\u4e3aG,\u82e5DG=1,\u5219AE\u7684\u957f\u4e3a()\u9009\u9879\uff1a['12\u221a{2}', '\\\\frac{16\u221a{2}}{3}', '3\u221a{10}', '8']",
+    "decision": "",
+    "answer": "\u89e3:\u2235AE\u4e3a\u2220DAB\u7684\u5e73\u5206\u7ebf,\u2234\u2220DAE=\u2220BAE,\u2235DC\u2225AB,\u2234\u2220BAE=\u2220DFA,\u2234\u2220DAE=\u2220DFA,\u2234AD=FD,\u2235DG\u22a5AE,\u2234AG=FG,\u2235\u56db\u8fb9\u5f62ABCD\u662f\u5e73\u884c\u56db\u8fb9\u5f62,\u2234AB=DC=4,AD\u2225BC,\u2235DF:CF=3:1,\u2234DF=3,CF=1,\u2235DG=1,\u2234GF=\u221a{3\u00b2-1\u00b2}=2\u221a{2},\u2234AF=2GF=4\u221a{2},\u2235AD\u2225BC,\u2234\u25b3ADF\u223d\u25b3ECF,\u2234CF:DF=EF:AF=1:3,\u5373EF:4\u221a{2}=1:3,\u2234EF=\\frac{4\u221a{2}}{3},\u2234AE=AF+EF=4\u221a{2}+\\frac{4\u221a{2}}{3}=\\frac{16\u221a{2}}{3},\u6545\u9009:B\uff0e",
+    "ans_choice": "\\frac{16\\sqrt{2}}{3}"
+}

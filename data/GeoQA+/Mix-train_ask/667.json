@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5c06\u7ebf\u6bb5AB\u6cbf\u7bad\u5934\u65b9\u5411\u5e73\u79fb2cm\u5f97\u5230\u7ebf\u6bb5CD,\u82e5AB=3cm,\u5219\u56db\u8fb9\u5f62ABDC\u7684\u5468\u957f\u4e3a()\u9009\u9879\uff1a['8cm', '10cm', '12cm', '20cm']",
+    "decision": "",
+    "answer": "(3+2)\u00d72=10cm,\u6240\u4ee5\u9009B",
+    "ans_choice": "10"
+}

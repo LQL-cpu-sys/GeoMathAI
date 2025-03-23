@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,PA,PB\u5206\u522b\u5207\u2299O\u4e8e\u70b9A,B,PA=12,CD\u5207\u2299O\u4e8e\u70b9E,\u4ea4PA,PB\u4e8e\u70b9C,D\u4e24\u70b9,\u5219\u25b3PCD\u7684\u5468\u957f\u662f()\u9009\u9879\uff1a['12', '18', '24', '30']",
+    "decision": "",
+    "answer": "\u89e3:\u2235PA\u3001PB\u5206\u522b\u5207\u2299O\u4e8e\u70b9A\u3001B,CD\u5207\u2299O\u4e8e\u70b9E,\u2234PA=PB=12,AC=EC,BD=ED,\u2234PC+CD+PD=PC+CE+DE+PD=PA+AC+PD+BD=PA+PB=12+12=24,\u5373\u25b3PCD\u7684\u5468\u957f\u4e3a24,\u6545\u9009:C\uff0e",
+    "ans_choice": "24"
+}

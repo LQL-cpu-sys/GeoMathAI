@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe:P\u4e3a\u5e73\u884c\u56db\u8fb9\u5f62ABCD\u5916\u4e00\u70b9,\u8fde\u63a5PA,PB,PC,PD,BD,\u82e5S~\u25b3PAB~=1,S~\u25b3PBC~=7,\u5219S~\u25b3PBD~\u7684\u9762\u79ef\u4e3a()\u9009\u9879\uff1a['4', '5', '6', '7']",
+    "decision": "",
+    "answer": "\u89e3:AD\u4e0eBP\u4ea4\u4e8e\u70b9E,\u8bbe\u70b9P\u5230AD\u7684\u8ddd\u79bb\u4e3ah~1~,AD\u548cBC\u4e4b\u95f4\u7684\u8ddd\u79bb\u4e3ah~2~,\u2235S~\u25b3PAB~=1,S~\u25b3PBC~=7,\u2234\\frac{AE(h_{1}+h_{2})}{2}=1,\\frac{BC(h_{1}+h_{2})}{2}=7,\u2235\u56db\u8fb9\u5f62ABCD\u662f\u5e73\u884c\u56db\u8fb9\u5f62,\u2234AD=BC,\u2234\\frac{(BC-AE)(h_{1}+h_{2})}{2}=7-1=6,\u5373\\frac{(AD-AE)(h_{1}+h_{2})}{2}=6,\u2234\\frac{DE(h_{1}+h_{2})}{2}=6,\u5373\u25b3BPD\u7684\u9762\u79ef\u662f6,\u6545\u9009:C\uff0e",
+    "ans_choice": "6"
+}

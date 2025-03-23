@@ -1,0 +1,8 @@
+{
+    "query": "\u5982\u56fe\uff0c\u76f4\u7ebfl1\u2225l2\u2225l3\uff0c\u76f4\u7ebfAC\u548cDF\u88abl1\uff0cl2\uff0cl3\u6240\u622a\uff0cAC\uff1d11\uff0cBC\uff1d6\uff0cEF\uff1d4\uff0c\u5219DE\u7684\u957f\u4e3a\uff08\uff09\u9009\u9879\uff1a['2', '3', '4', '\\\\frac{10}{3}']",
+    "decision": "",
+    "answer": "\u2235l1\u2225l2\u2225l3\uff0c\u2234\\frac{AB}{BC}=\\frac{DE}{EF}\uff0c\u5373\\frac{11-6}{6}=\\frac{DE}{4}\uff0c\u89e3\u5f97\uff0cDE\uff1d\\frac{10}{3}\uff0e\u6545\u9009\uff1aD\uff0e",
+    "ans_choice": [
+        "\\frac{10}{3}"
+    ]
+}

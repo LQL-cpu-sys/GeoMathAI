@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5df2\u77e5AB\u2225CD,AD\u4e0eBC\u76f8\u4ea4\u4e8e\u70b9P,AB=4,CD=7,PD=10,\u5219AP\u7684\u957f\u7b49\u4e8e()\u9009\u9879\uff1a['\\\\frac{40}{11}', '\\\\frac{70}{4}', '\\\\frac{70}{11}', '\\\\frac{40}{7}']",
+    "decision": "",
+    "answer": "\u89e3:\u2235AB\u2225CD,AD\u4e0eBC\u76f8\u4ea4\u4e8e\u70b9P,\u2234\\frac{AP}{PD}=\\frac{AB}{CD},\u2235AB=4,CD=7,PD=10,\u2234\\frac{AP}{10}=\\frac{4}{7},\u2234AP=\\frac{40}{7}\uff0e\u6545\u9009:D\uff0e",
+    "ans_choice": "\\frac{40}{7}"
+}

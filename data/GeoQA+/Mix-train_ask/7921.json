@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5df2\u77e5:\u5728\u8fb9\u957f\u4e3a12\u7684\u6b63\u65b9\u5f62ABCD\u4e2d,\u6709\u4e00\u4e2a\u5c0f\u6b63\u65b9\u5f62EFGH,\u5176\u4e2dE\u3001F\u3001G\u5206\u522b\u5728AB\u3001BC\u3001FD\u4e0a\uff0e\u82e5BF=3,\u5219BE\u957f\u4e3a()\u9009\u9879\uff1a['1', '2.5', '2.25', '1.5']",
+    "decision": "",
+    "answer": "\u89e3:\u2235\u56db\u8fb9\u5f62ABCD\u662f\u6b63\u65b9\u5f62,\u2234\u2220B=\u2220C=90\u00b0,\u5728\u25b3BEF\u4e0e\u25b3CFD\u4e2d\u2235\u2220BFE+\u2220CFD=\u2220CFD+\u2220CDF=90\u00b0,\u2234\u2220BEF=\u2220CDF,\u2234\u25b3BEF\u223d\u25b3CFD,\u2234\\frac{BF}{CD}=\\frac{BE}{CF},\u2235BF=3,BC=12,\u2234CF=BC-BF=12-3=9,\u2234\\frac{3}{12}=\\frac{BE}{9},\u2234BE=2.25\uff0e\u6545\u9009:C\uff0e",
+    "ans_choice": "2.25"
+}

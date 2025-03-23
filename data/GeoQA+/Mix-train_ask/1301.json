@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728\u25b3ABC\u4e2d,\u2220C=90\u00b0,O\u4e3a\u25b3ABC\u7684\u4e09\u6761\u89d2\u5e73\u5206\u7ebf\u7684\u4ea4\u70b9,OD\u22a5BC,OE\u22a5AC,OF\u22a5AB,\u70b9D\u3001E\u3001F\u5206\u522b\u662f\u5782\u8db3,\u4e14AB=10cm,BC=8cm,CA=6cm,\u5219\u70b9O\u5230\u8fb9AB\u7684\u8ddd\u79bb\u4e3a()\u9009\u9879\uff1a['2cm', '3cm', '4cm', '5cm']",
+    "decision": "",
+    "answer": "\u89e3:\u2235\u70b9O\u4e3a\u25b3ABC\u7684\u4e09\u6761\u89d2\u5e73\u5206\u7ebf\u7684\u4ea4\u70b9,\u2234OE=OF=OD,\u8bbeOE=x,\u2235S_{\u25b3ABC}=S_{\u25b3OAC}+S_{\u25b3OAB}+S_{\u25b3OCB}\u2234\\frac{1}{2}\u00d76\u00d78=\\frac{1}{2}OF\u00d710+\\frac{1}{2}OE\u00d76+\\frac{1}{2}OD\u00d78,\u22345x+3x+4x=24,\u2234x=2\u2234\u70b9O\u5230AB\u7684\u8ddd\u79bb\u7b49\u4e8e2.\u6545\u9009:A.",
+    "ans_choice": "2"
+}

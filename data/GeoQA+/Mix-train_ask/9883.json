@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,PA\u3001PB\u662f\u2299O\u7684\u5207\u7ebf,A\u3001B\u662f\u5207\u70b9,\u2220P=60\u00b0,PA=2,\u2299O\u7684\u76f4\u5f84\u7b49\u4e8e()\u9009\u9879\uff1a['\\\\frac{2\u221a{3}}{3}', '\\\\frac{4\u221a{3}}{3}', '2', '1']",
+    "decision": "",
+    "answer": "\u89e3:\u8fde\u63a5OP,\u5982\u56fe\uff0e\u2235PA\u3001PB\u662f\u2299O\u7684\u5207\u7ebf,\u2234OA\u22a5AP,OB\u22a5BP,PA=PB,\u2234\u2220PAO=\u2220PBO=90\u00b0,\u2235\u2220APB=60\u00b0,\u2234\u2220AOB=120\u00b0,\u2235OP=OP\uff0ePA=PB,\u2234\u25b3OPA\u224c\u25b3OPB(HL),\u2234\u2220AOP=\u2220BOP=60\u00b0,\u2235PA=2,\u2234OA=\\frac{2\u221a{3}}{3},\u2234\u76f4\u5f84\u4e3a\\frac{4\u221a{3}}{3},\u6545\u9009:B\uff0e",
+    "ans_choice": "\\frac{4\\sqrt{3}}{3}"
+}

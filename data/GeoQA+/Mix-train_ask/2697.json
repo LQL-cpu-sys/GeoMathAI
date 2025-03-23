@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728\u5e73\u9762\u76f4\u89d2\u5750\u6807\u7cfb\u4e2d,\u76f4\u7ebfOA\u8fc7\u70b9(2,1),\u5219tan\u03b1\u7684\u503c\u662f()\u9009\u9879\uff1a['2', '\\\\frac{1}{2}', '\\\\frac{\u221a{5}}{5}', '\\\\frac{2\u221a{5}}{5}']",
+    "decision": "",
+    "answer": "\u89e3:\u5982\u56fe:,\ntan\u03b1=\\frac{BC}{OC}=\\frac{1}{2}\uff0e\n\u6545\u9009:B\uff0e",
+    "ans_choice": "\\frac{1}{2}"
+}

@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728\u25b1ABCD\u4e2d,\u2220ABC\u548c\u2220BCD\u7684\u5e73\u5206\u7ebf\u4ea4\u8fb9AD\u4e8e\u70b9E,\u4e14BE=12,CE=5,\u5219\u70b9A\u5230BC\u7684\u8ddd\u79bb\u662f()\u9009\u9879\uff1a['\\\\frac{12}{5}', '4', '\\\\frac{60}{13}', '\\\\frac{60}{7}']",
+    "decision": "",
+    "answer": "\u89e3:\u2235\u56db\u8fb9\u5f62ABCD\u662f\u5e73\u884c\u56db\u8fb9\u5f62,\u2234AB\u2225CD,AD\u2225BC,\u2234\u2220ABC+\u2220BCD=180\u00b0,\u2235\u2220ABC\u3001\u2220BCD\u7684\u89d2\u5e73\u5206\u7ebf\u7684\u4ea4\u70b9E\u843d\u5728AD\u8fb9\u4e0a,\u2234\u2220EBC+\u2220ECB=\\frac{1}{2}\u00d7180\u00b0=90\u00b0,\u2234\u2220BEC=90\u00b0,\u2235BE=12,CE=5,\u2234BC=\u221a{12\u00b2+5\u00b2}=13,\u4f5cEM\u22a5BC\u4e8eM,\u5219EM=\\frac{BE\u00d7CE}{BC}=\\frac{60}{13},\u2234\u70b9A\u5230BC\u7684\u8ddd\u79bb\u662f\\frac{60}{13}\uff1b\u6545\u9009:C\uff0e",
+    "ans_choice": "\\frac{60}{13}"
+}

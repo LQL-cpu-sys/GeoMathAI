@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u2299O\u662f\u25b3ABC\u7684\u5916\u63a5\u5706,\u8fde\u63a5OA\u3001OC,\u2299O\u7684\u534a\u5f84R=2,sinB=\\frac{3}{4},\u5219\u5f26AC\u7684\u957f\u4e3a()\u9009\u9879\uff1a['3', '\u221a{7}', '\\\\frac{3}{2}', '\\\\frac{3}{4}']",
+    "decision": "",
+    "answer": "\u89e3:\u5ef6\u957fAO\u4ea4\u5706\u4e8e\u70b9D,\u8fde\u63a5CD,\u7531\u5706\u5468\u89d2\u5b9a\u7406,\u5f97:\u2220ACD=90\u00b0,\u2220D=\u2220B\u2234sinD=sinB=\\frac{3}{4},Rt\u25b3ADC\u4e2d,sinD=\\frac{3}{4},AD=2R=4,\u2234AC=AD\u2022sinD=3\uff0e\u6545\u9009:A\uff0e",
+    "ans_choice": "3"
+}

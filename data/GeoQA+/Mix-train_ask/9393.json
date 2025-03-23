@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,O\u4e3a\u25b1ABCD\u7684\u5bf9\u89d2\u7ebf\u4ea4\u70b9,E\u4e3aAB\u7684\u4e2d\u70b9,DE\u4ea4AC\u4e8e\u70b9F,\u82e5S~\u25a1ABCD~=12,\u5219S~\u25b3DOE~\u7684\u503c\u4e3a()\u9009\u9879\uff1a['1', '1.5', '2', '2.25']",
+    "decision": "",
+    "answer": "\u89e3:\u5982\u56fe,\u8fc7A\u3001E\u4e24\u70b9\u5206\u522b\u4f5cAN\u22a5BD\u3001EM\u22a5BD,\u5782\u8db3\u5206\u522b\u4e3aM\u3001N,\u5219EM\u2225AN,\u2234EM:AN=BE:AB,\u2234EM=\\frac{1}{2}AN,\u7531\u9898\u610fS~ABCD~=12,\u22342\u00d7\\frac{1}{2}\u00d7AN\u00d7BD=12,\u2234S~OED~=\\frac{1}{2}\u00d7OD\u00d7EM=\\frac{1}{2}\u00d7\\frac{1}{2}\u00d7BD\u00d7\\frac{1}{2}AN=\\frac{1}{8}S~\u56db\u8fb9\u5f62ABCD~=\\frac{3}{2}=1.5\uff0e\u6545\u9009:B\uff0e",
+    "ans_choice": "1.5"
+}

@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u2299O\u662f\u25b3ABC\u5916\u63a5\u5706,\u2220A=40\u00b0,\u5219\u2220OBC=()\u9009\u9879\uff1a['30\u00b0', '40\u00b0', '50\u00b0', '60\u00b0']",
+    "decision": "",
+    "answer": "\u89e3:\u6839\u636e\u5706\u5468\u89d2\u5b9a\u7406,\u5f97\u2220BOC=2\u2220A=80\u00b0\u2235OB=OC\u2234\u2220OBC=\u2220OCB=\\frac{180^{\u00b0}-\u2220BOC}{2}=50\u00b0\uff0e\n\u6545\u9009:C\uff0e",
+    "ans_choice": "50"
+}

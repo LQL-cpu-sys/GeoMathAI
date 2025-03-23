@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728\u25b3ABC\u4e2d,\u2220C=90\u00b0,AB=13,BC=5,\u5219sinA\u7684\u503c\u662f()\u9009\u9879\uff1a['\\\\frac{5}{13}', '\\\\frac{12}{13}', '\\\\frac{5}{12}', '\\\\frac{13}{5}']",
+    "decision": "",
+    "answer": "\u89e3:\u2235\u5728\u25b3ABC\u4e2d,\u2220C=90\u00b0,AB=13,BC=5,\u2234sinA=\\frac{\u2220A\u7684\u5bf9\u8fb9}{\u659c\u8fb9}=\\frac{BC}{AB}=image_019288.png\\frac{5}{13}\uff0e\n\u6545\u9009:A\uff0e",
+    "ans_choice": "\\frac{5}{13}"
+}

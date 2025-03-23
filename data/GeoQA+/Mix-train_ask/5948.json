@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,D\u662f\u25b3ABC\u5185\u4e00\u70b9,BD\u22a5CD,AD=7,BD=4,CD=3,E\u3001F\u3001G\u3001H\u5206\u522b\u662fAB\u3001BD\u3001CD\u3001AC\u7684\u4e2d\u70b9,\u5219\u56db\u8fb9\u5f62EFGH\u7684\u5468\u957f\u4e3a()\u9009\u9879\uff1a['12', '14', '24', '21']",
+    "decision": "",
+    "answer": "\u89e3:\u2235BD\u22a5CD,BD=4,CD=3,\u2234BC=\u221a{BD^{2}+CD^{2}}=\u221a{4^{2}+3^{2}}=5,\u2235E\u3001F\u3001G\u3001H\u5206\u522b\u662fAB\u3001AC\u3001CD\u3001BD\u7684\u4e2d\u70b9,\u2234EH=FG=\\frac{1}{2}BC,EF=GH=\\frac{1}{2}AD,\u2234\u56db\u8fb9\u5f62EFGH\u7684\u5468\u957f=EH+GH+FG+EF=AD+BC,\u53c8\u2235AD=7,\u2234\u56db\u8fb9\u5f62EFGH\u7684\u5468\u957f=7+5=12\uff0e\u6545\u9009:A\uff0e",
+    "ans_choice": "12"
+}

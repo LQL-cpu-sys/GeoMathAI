@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728\u25b3ADE\u4e2d,BC\u2225DE,AB=3,BD=DE=6,\u5219BC\u7684\u957f\u662f()\u9009\u9879\uff1a['2', '3', '4', '6']",
+    "decision": "",
+    "answer": "\u89e3:\u2235BC\u2225DE,AB=3,BD=DE=6,\u2234\\frac{AB}{AD}=\\frac{BC}{DE},\u5373\\frac{3}{3+6}=\\frac{BC}{6},\u2234BC=\\frac{3\u00d76}{9}=2\uff0e\u6545\u9009:A\uff0e",
+    "ans_choice": "2"
+}

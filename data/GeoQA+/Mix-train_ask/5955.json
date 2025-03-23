@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u56db\u8fb9\u5f62ABCD\u4e2d,AC\u22a5BC,AD\u2225BC,BC=3,AC=4,AD=6\uff0eM\u662fBD\u7684\u4e2d\u70b9,\u5219CM\u7684\u957f\u4e3a()\u9009\u9879\uff1a['\\\\frac{3}{2}', '2', '\\\\frac{5}{2}', '3']",
+    "decision": "",
+    "answer": "\u89e3:\u5ef6\u957fBC\u5230E\u4f7fBE=AD,\u5219\u56db\u8fb9\u5f62ACED\u662f\u5e73\u884c\u56db\u8fb9\u5f62,\u2235BC=3,AD=6,\u2234C\u662fBE\u7684\u4e2d\u70b9,\u2235M\u662fBD\u7684\u4e2d\u70b9,\u2234CM=\\frac{1}{2}DE=\\frac{1}{2}AB,\u2235AC\u22a5BC,\u2234AB=\u221a{AC^{2}+BC^{2}}=\u221a{4^{2}+3^{2}}=5,\u2234CM=\\frac{5}{2},\u6545\u9009:C\uff0e\u2220\u2220LZ=-2^\u00b0",
+    "ans_choice": "\\frac{5}{2}"
+}

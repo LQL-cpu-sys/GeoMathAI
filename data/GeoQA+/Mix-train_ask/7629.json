@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u25b3ABC\u4e2d,DE\u2225BC,\\frac{AD}{DB}=\\frac{1}{2},DE=2cm,\u5219BC\u8fb9\u7684\u957f\u662f()\u9009\u9879\uff1a['6cm', '4cm', '8cm', '7cm']",
+    "decision": "",
+    "answer": "\u89e3:\u2235\\frac{AD}{DB}=\\frac{1}{2},\u2234\\frac{AD}{AB}=\\frac{1}{3},\u2235DE\u2225BC,\u2234\u25b3ADE\u223d\u25b3ABC,\u2234\\frac{DE}{BC}=\\frac{AD}{AB}=\\frac{1}{3},\u2235DE=2cm,\u2234BC=6cm\uff0e\u6545\u9009:A\uff0e",
+    "ans_choice": "6"
+}

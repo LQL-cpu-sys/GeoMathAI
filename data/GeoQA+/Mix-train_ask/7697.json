@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u25b3ABC\u5185\u63a5\u4e8e\u2299O,E\u662fAC\u4e0a\u4e00\u70b9,EF\u22a5AB\u4e8e\u70b9F,\u4e14\\frac{AE}{EF}=\\frac{3}{4},BC=10,\u5219BC\u7684\u5f26\u5fc3\u8dddOD\u7b49\u4e8e()\u9009\u9879\uff1a['\\\\frac{9}{4}', '\\\\frac{15}{4}', '4', '\\\\frac{12}{5}']",
+    "decision": "",
+    "answer": "\u89e3:\u8fde\u63a5BO,OC,\u2235OD\u22a5BC,\u2234\u2220BOD=\\frac{1}{2}\u2220BOC,BD=\\frac{1}{2}BC=5,\u2235\u2220A=\\frac{1}{2}\u2220BOC,\u2234\u2220A=\u2220BOD,\u53c8\u2235EF\u22a5AB,\u2234\u2220AEF=\u2220BDO=90\u00b0,\u2234\u25b3AEF\u223d\u25b3BDO,\u2234\\frac{AE}{EF}=\\frac{OD}{BD},\u2235\\frac{AE}{EF}=\\frac{3}{4},\u2234\\frac{OD}{5}=\\frac{3}{4},\u2234OD=\\frac{15}{4},\u6545\u9009:B\uff0e",
+    "ans_choice": "\\frac{15}{4}"
+}

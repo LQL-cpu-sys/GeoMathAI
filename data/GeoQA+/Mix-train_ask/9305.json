@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u8fc7\u5e73\u884c\u56db\u8fb9\u5f62ABCD\u5bf9\u89d2\u7ebf\u4ea4\u70b9O\u7684\u76f4\u7ebf\u4ea4AD\u4e8eE,\u4ea4BC\u4e8eF,\u82e5AB=4,BC=6,OE=2,\u90a3\u4e48\u56db\u8fb9\u5f62EFCD\u5468\u957f\u662f()\u9009\u9879\uff1a['16', '15', '14', '13']",
+    "decision": "",
+    "answer": "\u89e3:\u2235\u56db\u8fb9\u5f62ABCD\u662f\u5e73\u884c\u56db\u8fb9\u5f62,\u2234AD=BC=6,AB=CD=4,OA=OC,AD\u2225BC,\u2234\u2220EAO=\u2220FCO,\u5728\u25b3AEO\u548c\u25b3CFO\u4e2d,\u2265ft\\{\\begin{matrix}\u2220AOE=\u2220FOC&\\\\OA=OC&\\\\\u2220EAO=\u2220FCO&\\\\\\end{matrix}\\right.\\,\u2234\u25b3AEO\u224c\u25b3CFO(ASA),\u2234AE=CF,OE=OF=2,\u2234DE+CF=DE+AE=AD=6,\u2234\u56db\u8fb9\u5f62EFCD\u7684\u5468\u957f\u662fEF+FC+CD+DE=2+2+6+4=14,\u6545\u9009:C\uff0e",
+    "ans_choice": "14"
+}

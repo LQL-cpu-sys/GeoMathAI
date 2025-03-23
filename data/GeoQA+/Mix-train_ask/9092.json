@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u77e9\u5f62ABCD\u4e2d,AB=3,AD=4,BE\u22a5AC,\u5219BE\u957f\u4e3a()\u9009\u9879\uff1a['5', '\\\\frac{12}{5}', '\\\\frac{9}{5}', '\\\\frac{5}{2}']",
+    "decision": "",
+    "answer": "\u89e3:\u2235\u56db\u8fb9\u5f62ABCD\u662f\u77e9\u5f62,\u2234\u2220ABC=90\u00b0,BC=AD=4,\u2234AC=\u221a{AB\u00b2+BC\u00b2}=\u221a{3\u00b2+4\u00b2}=5,\u2235BE\u22a5AC,\u2234\u25b3ABC\u7684\u9762\u79ef=\\frac{1}{2}AC\u2022BE=\\frac{1}{2}AB\u2022BC,\u2234BE=\\frac{AB\u00d7BC}{AC}=\\frac{3\u00d74}{5}=\\frac{12}{5}\uff1b\u6545\u9009:B\uff0e",
+    "ans_choice": "\\frac{12}{5}"
+}

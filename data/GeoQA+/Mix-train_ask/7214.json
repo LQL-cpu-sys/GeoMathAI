@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,BE\u3001CD\u4ea4\u4e8e\u70b9A,DE\u2225BC,\u82e5\\frac{AC}{AD}=\\frac{1}{2},\u5219\\frac{AB}{AE}=()\u9009\u9879\uff1a['\\\\frac{1}{2}', '\\\\frac{1}{3}', '2', '3']",
+    "decision": "",
+    "answer": "\u89e3:\u2235DE\u2225BC,\\frac{AC}{AD}=\\frac{1}{2},\u2234\\frac{AB}{AE}=\\frac{AC}{AD}=\\frac{1}{2},\u6545\u9009:A\uff0e",
+    "ans_choice": "\\frac{1}{2}"
+}

@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,l_{1}\u2225l_{2}\u2225l_{3},\u76f4\u7ebfa,b\u4e0el_{1},l_{2},l_{3}\u5206\u522b\u76f8\u4ea4\u4e8eA,B,C\u548c\u70b9D,E,F,\u82e5\\frac{AB}{BC}=\\frac{3}{5},DE=6,\u5219EF\u7684\u957f\u662f()\u9009\u9879\uff1a['\\\\frac{18}{5}', '\\\\frac{48}{5}', '10', '6']",
+    "decision": "",
+    "answer": "\u89e3:\u2235l_{1}\u2225l_{2}\u2225l_{3},\u2234\\frac{AB}{BC}=\\frac{DE}{EF},\u2235\\frac{AB}{BC}=\\frac{3}{5},DE=6,\u2234\\frac{6}{EF}=\\frac{3}{5},\u2234EF=10,\u6545\u9009:C\uff0e",
+    "ans_choice": "10"
+}

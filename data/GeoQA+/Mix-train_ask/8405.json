@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u2299O\u7684\u534a\u5f84\u4e3a2,\u76f4\u7ebfPA\u3001PB\u4e3a\u2299O\u7684\u5207\u7ebf,A\u3001B\u4e3a\u5207\u70b9,\u82e5PA\u22a5PB,\u5219OP\u7684\u957f\u4e3a()\u9009\u9879\uff1a['4\u221a{2}', '4', '2\u221a{2}', '2']",
+    "decision": "",
+    "answer": "\u89e3:\u8fde\u63a5OA\u3001OB,\u5219OA\u22a5AP,OB\u22a5PB,OA=OB=2,\u5728Rt\u25b3PAO\u4e0eRt\u25b3PBO\u4e2d,\u2235OP=OP,OA=OB,\u2234Rt\u25b3PAO\u224cRt\u25b3PBO,\u2234\u2220APO=\u2220BPO=\\frac{1}{2}\u2220APB\uff1b\u2235PA\u22a5PB,\u2234\u2220APB=90\u00b0,\u2234\u2220APO=45\u00b0,\u5728Rt\u25b3PAO\u4e2d,OP=\\frac{OA}{sin\u2220APO}=\\frac{2}{\\frac{\u221a{2}}{2}}=2\u221a{2}\uff0e\u6545\u9009:C\uff0e",
+    "ans_choice": "2\\sqrt{2}"
+}

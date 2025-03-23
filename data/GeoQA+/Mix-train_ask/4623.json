@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,AB\u2225CD\u2225EF,AD=4,BC=DF=3,\u5219BE\u7684\u957f\u4e3a()\u9009\u9879\uff1a['\\\\frac{9}{4}', '\\\\frac{21}{4}', '4', '6']",
+    "decision": "",
+    "answer": "\u89e3:\u2235AB\u2225CD\u2225EF,\u2234\\frac{BC}{CE}=\\frac{AD}{DF},\u53c8\u2235AD=4,BC=DF=3,\u2234\\frac{3}{CE}=\\frac{4}{3},\u2234CE=\\frac{9}{4},\u2234BE=BC+CE=3+\\frac{9}{4}=\\frac{21}{4}\uff0e\u6545\u9009:B\uff0e",
+    "ans_choice": "\\frac{21}{4}"
+}

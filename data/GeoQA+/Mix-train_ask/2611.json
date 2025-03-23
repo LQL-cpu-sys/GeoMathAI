@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728Rt\u25b3ABC\u4e2d,\u2220C=90\u00b0,BC=4,AC=3,CD\u22a5AB\u4e8eD,\u8bbe\u2220ACD=\u03b1,\u5219\\cos\u03b1\u7684\u503c\u4e3a()\u9009\u9879\uff1a['\\\\frac{4}{5}', '\\\\frac{3}{4}', '\\\\frac{4}{3}', '\\\\frac{3}{5}']",
+    "decision": "",
+    "answer": "\u89e3:\u5728\u76f4\u89d2\u25b3ABC\u4e2d,AB=\u221a{AC^{2}+BC^{2}}=\u221a{3^{2}+4^{2}}=5\uff0e\u2235\u5728Rt\u25b3ABC\u4e2d,\u2220C=90\u00b0,CD\u22a5AB\u4e8eD\uff0e\u2234\u2220ACD=\u2220B,\u2234\\cos\u03b1=\\cosB=\\frac{BC}{AB}=\\frac{4}{5}\uff0e\n\u6545\u9009:A\uff0e",
+    "ans_choice": "\\frac{4}{5}"
+}

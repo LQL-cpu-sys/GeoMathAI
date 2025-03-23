@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5c0f\u9896\u4ece\u5c71\u811a\u4e0b\u7684\u70b9A\u8d70\u4e86100\u7c73\u540e\u5230\u8fbe\u5c71\u9876\u7684\u70b9B,\u5df2\u77e5\u70b9B\u5230\u5c71\u811a\u7684\u5782\u76f4\u8ddd\u79bb\u4e3a60\u7c73,\u5219sin\u2220ABC\u7684\u503c\u4e3a()\u9009\u9879\uff1a['\\\\frac{3}{5}', '\\\\frac{4}{5}', '\\\\frac{4}{3}', '\\\\frac{3}{4}']",
+    "decision": "",
+    "answer": "\u89e3:\u7531\u9898\u610f\u5f97:AB=100\u7c73,BC=60\u7c73,\u6839\u636e\u52fe\u80a1\u5b9a\u7406\u5f97:AC=\u221a{AB\u00b2-BC\u00b2}=\u221a{100\u00b2-60\u00b2}=80\u7c73,\u6545sin\u2220ABC=\\frac{AC}{AB}=\\frac{80}{100}=\\frac{4}{5},\u6545\u9009:B\uff0e",
+    "ans_choice": "\\frac{4}{5}"
+}

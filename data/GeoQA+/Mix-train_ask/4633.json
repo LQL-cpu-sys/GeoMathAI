@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u4e24\u6761\u76f4\u7ebf\u88ab\u4e09\u6761\u5e73\u884c\u7ebf\u6240\u622a,\u5df2\u77e5AB=3,DE=4,EF=7,\u5219BC\u7684\u957f\u662f()\u9009\u9879\uff1a['\\\\frac{21}{4}', '\\\\frac{28}{3}', '\\\\frac{12}{7}', '\\\\frac{11}{3}']",
+    "decision": "",
+    "answer": "\u89e3:\u2235\u4e24\u6761\u76f4\u7ebf\u88ab\u4e09\u6761\u5e73\u884c\u7ebf\u6240\u622a,\u2234\\frac{AB}{BC}=\\frac{DE}{EF},\u5373\\frac{3}{BC}=\\frac{4}{7},\u89e3\u5f97:BC=\\frac{21}{4}\uff1b\u6545\u9009:A\uff0e",
+    "ans_choice": "\\frac{21}{4}"
+}

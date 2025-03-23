@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u67d0\u767b\u5c71\u8fd0\u52a8\u5458\u4ece\u8425\u5730A\u6cbf\u5761\u89d2\u4e3a30\u00b0\u7684\u659c\u5761AB\u5230\u8fbe\u5c71\u9876B,\u5982\u679cAB=600m,\u90a3\u4e48\u4ed6\u5b9e\u9645\u4e0a\u5347\u7684\u9ad8\u5ea6BC\u4e3a()\u9009\u9879\uff1a['300\u221a{3}m', '1200m', '300m', '200\u221a{3}m']",
+    "decision": "",
+    "answer": "\u89e3:\u5728Rt\u25b3ABC\u4e2d,sinA=\\frac{BC}{AB},\u5219BC=AB\u2022sinA=600\u00d7\\frac{1}{2}=300(m),\u6545\u9009:C\uff0e",
+    "ans_choice": "300"
+}

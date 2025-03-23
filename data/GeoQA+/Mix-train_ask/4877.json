@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,AB\u2225CD,OH\u5206\u522b\u4e0eAB\u3001CD\u4ea4\u4e8e\u70b9F\u3001H,OG\u5206\u522b\u4e0eAB\u3001CD\u4ea4\u4e8e\u70b9E\u3001G,\u82e5\\frac{OE}{EG}=\\frac{4}{9},OF=12,\u5219OH\u7684\u957f\u4e3a()\u9009\u9879\uff1a['39', '27', '12', '26']",
+    "decision": "",
+    "answer": "\u89e3:\u2235EF\u2225GH,\u2234\\frac{OE}{EG}=\\frac{OF}{FH}=\\frac{4}{9},\u2234\\frac{12}{FH}=\\frac{4}{9},\u2234FH=27,\u2234OH=OF+FH=12+27=39,\u6545\u9009:A\uff0e",
+    "ans_choice": "39"
+}

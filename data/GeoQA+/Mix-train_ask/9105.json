@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u77e9\u5f62ABCD\u4e2d,AB=8cm,AD=6cm,EF\u662f\u5bf9\u89d2\u7ebfBD\u7684\u5782\u76f4\u5e73\u5206\u7ebf,\u5219EF\u7684\u957f\u4e3a()\u9009\u9879\uff1a['\\\\frac{15}{4}cm', '\\\\frac{15}{3}cm', '\\\\frac{15}{2}cm', '8cm']",
+    "decision": "",
+    "answer": "\u89e3:\u2235EF\u662fBD\u7684\u5782\u76f4\u5e73\u5206\u7ebf,\u2234OB=OD,\u2235\u2220OBF=\u2220ODE,\u2220BOF=\u2220DOE,\u2234\u25b3BOF\u224c\u25b3DOE,\u5219OE=OF,\u2235\u2220OBF=\u2220ABD,\u2234\u25b3BOF\u223d\u25b3BAD\u2234\\frac{FO}{BO}=\\frac{AD}{AB},\u2235BD=\u221a{AD\u00b2+AB\u00b2}=10cm,\u2234BO=5cm,\u2234FO=5\u00d7\\frac{6}{8}cm=\\frac{15}{4}cm,\u2234EF=2FO=\\frac{15}{2}cm\uff0e\u6545\u9009:C\uff0e",
+    "ans_choice": "\\frac{15}{2}"
+}

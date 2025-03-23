@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u2299A,\u2299B,\u2299C\u4e24\u4e24\u4e0d\u76f8\u4ea4,\u4e14\u534a\u5f84\u5747\u4e3a0.5,\u5219\u56fe\u4e2d\u4e09\u4e2a\u9634\u5f71\u90e8\u5206\u7684\u9762\u79ef\u4e4b\u548c\u4e3a()\u9009\u9879\uff1a['\\\\frac{\u03c0}{12}', '\\\\frac{\u03c0}{8}', '\\\\frac{\u03c0}{6}', '\\\\frac{\u03c0}{4}']",
+    "decision": "",
+    "answer": "\u89e3:S_{\u9634\u5f71}=\\frac{180\u03c0}{360}\u00d7(\\frac{1}{2})\u00b2=\\frac{\u03c0}{8}\uff0e\u56e0\u6b64\u9009\u62e9B\uff0e",
+    "ans_choice": "\\frac{\\pi}{8}"
+}

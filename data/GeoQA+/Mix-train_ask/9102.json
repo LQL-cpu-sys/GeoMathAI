@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728\u77e9\u5f62ABCD\u4e2d,\u5bf9\u89d2\u7ebf\u957f2,\u4e14\u22201=\u22202=\u22203=\u22204,\u5219\u56db\u8fb9\u5f62EFGH\u7684\u5468\u957f\u4e3a()\u9009\u9879\uff1a['2\u221a{2}', '4', '4\u221a{2}', '6']",
+    "decision": "",
+    "answer": "\u89e3:\u2235\u22201=\u22202=\u22203=\u22204,\u2234\u2220GHE=\u2220GFE,\u2220HGF=\u2220HEF,\u5728\u56db\u8fb9\u5f62GHEF\u4e2d,\u2220GHE+\u2220HGF=180\u00b0,\u2220GHE+\u2220HEF=180\u00b0,\u6545\u53ef\u5f97HG\u2225EF,GF\u2225HE,HGFE\u662f\u5e73\u884c\u56db\u8fb9\u5f62,\u2234\u25b3AHG\u224c\u25b3CFE,\u25b3DGF\u224c\u25b3BEH,\u25b3BEH\u223d\u25b3CEF,\u25b3DGF\u223d\u25b3CEF,\u2234\\frac{BE}{CE}=\\frac{BH}{CF}=\\frac{DF}{FC},\u2234EF\u2225BD,\u540c\u7406HG\u2225BD,\u2234\\frac{GF}{AC}=\\frac{GD}{AD},\\frac{HG}{BD}=\\frac{AG}{AD},\u2234\\frac{GF}{AC}+\\frac{HG}{BD}=\\frac{AG}{AD}+\\frac{GD}{AD}=1,\u53c8\u2235\\frac{GF}{AC}+\\frac{HG}{BD}=\\frac{GF}{AC}+\\frac{HG}{AC},AC=BD,\u5373GF+HG=AC=2,\u2234\u56db\u8fb9\u5f62EFGH\u7684\u5468\u957f=2(GF+HG)=4\uff0e\u6545\u9009:B\uff0e",
+    "ans_choice": "4"
+}

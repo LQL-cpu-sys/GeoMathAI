@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u25b1ABCD\u4e2d,AC\uff0eBD\u4e3a\u5bf9\u89d2\u7ebf,BC=3,BC\u8fb9\u4e0a\u7684\u9ad8\u4e3a2,\u5219\u9634\u5f71\u90e8\u5206\u7684\u9762\u79ef\u4e3a()\u9009\u9879\uff1a['3', '6', '12', '24']",
+    "decision": "",
+    "answer": "\u89e3:\u2235\u25b1ABCD\u4e2d,AC\uff0eBD\u4e3a\u5bf9\u89d2\u7ebf,BC=3,BC\u8fb9\u4e0a\u7684\u9ad8\u4e3a2,\u2234S~\u25b1ABCD~=3\u00d72=6,AD\u2225BC,\u2234OA=OC,\u2220OAE=\u2220OCF,\u5728\u25b3AOE\u548c\u25b3COF\u4e2d,\u2265ft\\{\\begin{matrix}\u2220OAE=\u2220OCF\\\\OA=OC\\\\\u2220AOE=\u2220COF\\\\\\end{matrix}\\right.\\,\u2234\u25b3AOE\u224c\u25b3COF(ASA),\u2234S~\u25b3AOE~=S~\u25b3COF~,\u540c\u7406:S~\u25b3EOG~=S~\u25b3FOH~,S~\u25b3DOG~=S~\u25b3BOH~,\u2234S_{\u9634\u5f71}=S~\u25b3ABD~=\\frac{1}{2}S~\u25b1ABCD~=\\frac{1}{2}\u00d76=3\uff0e\u6545\u9009:A\uff0e",
+    "ans_choice": "3"
+}

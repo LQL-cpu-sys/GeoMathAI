@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728\u25b1ABCD\u4e2d,\u8fc7A\u70b9\u4f5c\u9ad8,\u5782\u8db3\u521a\u597d\u4e3a\u70b9C,AC=2,\u2220B=30\u00b0,\u5219\u25b1ABCD\u7684\u5468\u957f\u662f()\u9009\u9879\uff1a['8+4\u221a{3}', '4+2\u221a{3}', '8', '4']",
+    "decision": "",
+    "answer": "\u89e3:\u2235AC\u22a5AD,\u2220B=30\u00b0,AC=2,\u2234AB=2AC=4,\u2234BC=\u221a{AB\u00b2-AC\u00b2}=2\u221a{3},\u2234\u25b1ABCD\u7684\u5468\u957f\u662f:2(AB+BC)=8+4\u221a{3}\uff0e\u6545\u9009:A\uff0e",
+    "ans_choice": "8"
+}

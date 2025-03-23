@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728\u25b3ABC\u4e2d,\u70b9D\u662fAB\u8fb9\u4e0a\u7684\u4e00\u70b9,\u82e5\u2220ACD=\u2220B\uff0eAD=1,AC=2,\u25b3ADC\u7684\u9762\u79ef\u4e3aS,\u5219\u25b3BCD\u7684\u9762\u79ef\u4e3a()\u9009\u9879\uff1a['S', '2S', '3S', '4S']",
+    "decision": "",
+    "answer": "\u89e3:\u2235\u2220DAC=\u2220CAB,\u2220ACD=\u2220B\uff0e\u2234\u25b3ACD\u223d\u25b3ABC,\u2234\\frac{S_{\riangleADC}}{S_{\riangleABC}}=(\\frac{AD}{AC})^{2}=(\\frac{1}{2})^{2}=,\u2234S\u25b3ABC=4S,\u2234\u25b3BCD\u7684\u9762\u79ef=4S-S=3S\uff0e\u6545\u9009:C\uff0e",
+    "ans_choice": "3"
+}

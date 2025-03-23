@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5df2\u77e5Rt\u25b3ABC\u4e2d,\u2220C=90\u00b0,\u2220BAC=67.5\u00b0,AD=BD,\u5219sin\u2220ADC=()\u9009\u9879\uff1a['\\\\frac{1}{2}', '\\\\frac{\u221a{2}}{2}', '\\\\frac{\u221a{3}}{3}', '\\\\frac{\u221a{3}}{2}']",
+    "decision": "",
+    "answer": "\u89e3:\u2235Rt\u25b3ABC\u4e2d,\u2220C=90\u00b0,\u2220BAC=67.5\u00b0,\u2234\u2220B=90\u00b0-\u2220BAC=90\u00b0-67.5\u00b0=22.5\u00b0,\u2235AD=BD,\u2234\u2220B=\u2220BAD=22.5\u00b0,\u2234\u2220ADC=\u2220B+\u2220BAD=22.5\u00b0+22.5\u00b0=45\u00b0,\u2234sin\u2220ADC=sin45\u00b0=\\frac{\u221a{2}}{2}\uff0e\n\u6545\u9009:B\uff0e",
+    "ans_choice": "\\frac{\\sqrt{2}}{2}"
+}

@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728\u76f4\u89d2\u25b3ABC\u4e2d,\u2220C=90\u00b0,\u82e5AB=5,AC=4,\u5219tan\u2220B=()\u9009\u9879\uff1a['\\\\frac{3}{5}', '\\\\frac{4}{5}', '\\\\frac{3}{4}', '\\\\frac{4}{3}']",
+    "decision": "",
+    "answer": "\u89e3:\u2235\u76f4\u89d2\u25b3ABC\u4e2d,\u2220C=90\u00b0,AB=5,AC=4,\u2234BC=\u221a{AB^{2}-AC^{2}}=\u221a{5^{2}-4^{2}}=3\uff0e\u2234tan\u2220B=\\frac{AC}{BC}=\\frac{4}{3}\uff0e\n\u6545\u9009:D\uff0e",
+    "ans_choice": "\\frac{4}{3}"
+}

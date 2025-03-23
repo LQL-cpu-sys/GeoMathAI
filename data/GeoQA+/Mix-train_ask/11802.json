@@ -1,0 +1,8 @@
+{
+    "query": "\u5982\u56fe\uff0c\u5728\u25b3ABC\u4e2d\uff0cD\u5728BC\u4e0a\uff0cO\u5728AD\u4e0a\uff0c\u82e5S\u25b3AOB\uff1d3\uff0cS\u25b3BOD\uff1d2\uff0cS\u25b3ACO\uff1d1\uff0c\u5219S\u25b3COD\u7b49\u4e8e\uff08\uff09\u9009\u9879\uff1a['\\\\frac{1}{3}', '0.5', '\\\\frac{3}{2}', '\\\\frac{2}{3}']",
+    "decision": "",
+    "answer": "\u2235S\u25b3AOB\uff1d3\uff0cS\u25b3ACO\uff1d1\uff0c\u2234\\frac{S\u25b3AOB}{S\u25b3ACO}=\\frac{3}{1}\uff0c\u8bbe\u70b9B\u5230OA\u6240\u5728\u76f4\u7ebf\u7684\u8ddd\u79bb\u4e3ab\uff0c\u70b9C\u5230AO\u6240\u5728\u7684\u76f4\u7ebf\u7684\u8ddd\u79bb\u4e3ac\uff0c\u2234\\frac{b}{c}\uff1d\\frac{3}{1}\uff0c\u2234\\frac{ S\u25b3BOD}{S\u25b3COD}=\\frac{0.5\u00d7OD\u00d7b}{0.5\u00d7OD\u00d7c}=\\frac{3}{1}\uff0c\u2235S\u25b3BOD\uff1d2\uff0c\u2234S\u25b3COD\uff1d\\frac{2}{3}\uff0e\u6545\u9009\uff1aD\uff0e",
+    "ans_choice": [
+        "\\frac{2}{3}"
+    ]
+}

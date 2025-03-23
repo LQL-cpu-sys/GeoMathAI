@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5df2\u77e5\"\u4eba\u5b57\u68af\"\u76845\u4e2a\u8e29\u6863\u628a\u68af\u5b50\u7b49\u5206\u62106\u4efd,\u4ece\u4e0a\u5f80\u4e0b\u7684\u7b2c\u4e8c\u4e2a\u8e29\u6863\u4e0e\u7b2c\u4e09\u4e2a\u8e29\u6863\u7684\u6b63\u4e2d\u95f4\u5904\u6709\u4e00\u676160cm\u957f\u7684\u7ed1\u7ef3EF,tan\u03b1$=\\frac{5}{2}$,\u5219\"\u4eba\u5b57\u68af\"\u7684\u9876\u7aef\u79bb\u5730\u9762\u7684\u9ad8\u5ea6AD\u662f()\u9009\u9879\uff1a['144cm', '180cm', '240cm', '360cm']",
+    "decision": "",
+    "answer": "\u89e3:\u5982\u56fe:\u6839\u636e\u9898\u610f\u53ef\u77e5:\u25b3AFO\u223d\u25b3ACD,OF$=\\frac{1}{2}$EF=30cm\u2234$\\frac{OF}{DC}=\\frac{AF}{AC}$,\u2234\\frac{30}{DC}=\\frac{2.5}{6}\u2234CD=72cm,\u2235tan\u03b1$=\\frac{5}{2}\u2234\\frac{AD}{DC}=\\frac{5}{2}\u2234AD$=\\frac{5}{2}\u00d772=$180cm\uff0e\u6545\u9009:B\uff0e",
+    "ans_choice": "180"
+}

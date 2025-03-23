@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,AC\u662f\u7535\u6746\u7684\u4e00\u6839\u62c9\u7ebf,\u6d4b\u5f97BC=4\u7c73,\u2220ACB=60\u00b0,\u5219AB\u7684\u957f\u4e3a()\u9009\u9879\uff1a['8\u7c73', '4\u221a{3}\u7c73', '6\u7c73', '2\u221a{3}\u7c73']",
+    "decision": "",
+    "answer": "\u89e3:\u7531\u9898\u610f\u53ef\u77e5\u25b3ABC\u662f\u76f4\u89d2\u4e09\u89d2\u5f62,\u2234tan\u2220ACB$=\\frac{AB}{BC}$,\u2235BC=4\u7c73,\u2220ACB=60\u00b0,\u2234$\\frac{AB}{BC}=\u221a{3}$,\u2234AB=4$\u221a{3}$\u7c73,\u6545\u9009:B\uff0e",
+    "ans_choice": "4\\sqrt{3}"
+}

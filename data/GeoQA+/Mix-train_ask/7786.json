@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728\u25b1ABCD\u4e2d,EF\u2225AB,DE:EA=2:3,EF=4,\u5219CD\u7684\u957f\u4e3a()\u9009\u9879\uff1a['\\\\frac{16}{3}', '8', '10', '16']",
+    "decision": "",
+    "answer": "\u89e3:\u2235DE:EA=2:3,\u2234DE:DA=2:5,\u53c8\u2235EF\u2225AB,\u2234\u25b3DEF\u223d\u25b3DAB,\u2234\\frac{DE}{DA}=\\frac{EF}{AB},\u5373\\frac{2}{5}=\\frac{4}{AB},\u89e3\u5f97AB=10,\u7531\u5e73\u884c\u56db\u8fb9\u5f62\u7684\u6027\u8d28,\u5f97CD=AB=10\uff0e\u6545\u9009:C\uff0e",
+    "ans_choice": "10"
+}

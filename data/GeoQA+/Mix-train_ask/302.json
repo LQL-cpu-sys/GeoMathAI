@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728\u25b3ABC\u4e2d,\u2220C=90\u00b0,\u2220BDC=30\u00b0,AD=2BC,\u5219\u2220A=()\u9009\u9879\uff1a['15\u00b0', '20\u00b0', '16\u00b0', '18\u00b0']",
+    "decision": "",
+    "answer": "\u89e3:\u2235\u5728\u25b3ABC\u4e2d,\u2220C=90\u00b0,\u2220BDC=30\u00b0,\u2234BD=2BC,\u53c8\u2235AD=2BC,\u2234AD=DB,\u2234\u2220A=\u2220DBA,\u2235\u2220BDC=\u2220A+\u2220DBA,\u2220BDC=30\u00b0,\u2234\u2220A=15\u00b0.\u6545\u9009A.",
+    "ans_choice": "15"
+}

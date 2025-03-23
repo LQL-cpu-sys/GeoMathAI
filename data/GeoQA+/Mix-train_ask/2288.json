@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,AB\u662f\u659c\u9760\u5728\u5899\u4e0a\u7684\u957f\u68af,\u68af\u811aB\u8ddd\u5899\u89d21.4m,\u697c\u4e0a\u70b9D\u8ddd\u79bb\u58991.2m,BD\u957f0.5m,\u5219\u68af\u5b50\u7684\u957f\u4e3a()\u9009\u9879\uff1a['3.2m', '4m', '3.5m', '4.2m']",
+    "decision": "",
+    "answer": "\u89e3:\u2235DE\u22a5AC,BC\u22a5AC,\u2234DE\u2225BC,\u2234\u25b3ADE\u223d\u25b3ABC,\u2234\\frac{AB}{AD}=\\frac{BC}{DE},\u5373:\\frac{AB}{AB-0.5}=\\frac{1.4}{1.2},\u2234AB=3.5m,\u6545\u9009:C\uff0e",
+    "ans_choice": "3.5"
+}

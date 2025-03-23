@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe\u662f\u67d0\u6821\u6559\u5b66\u697c\u7684\u697c\u68af(\u90e8\u5206),\u5982\u679c\u6bcf\u4e2a\u53f0\u9636\u7684\u9ad815cm,\u5bbd25cm,\u90a3\u4e48\u697c\u68af\u7684\u5761\u5ea6tanB=()\u9009\u9879\uff1a['\\\\frac{3}{4}', '\\\\frac{4}{3}', '\\\\frac{3}{5}', '\\\\frac{4}{5}']",
+    "decision": "",
+    "answer": "\u89e3:tanB=\\frac{AC}{BC}=\\frac{120}{200}=\\frac{3}{5}\uff0e\u6545\u9009:C\uff0e",
+    "ans_choice": "\\frac{3}{5}"
+}

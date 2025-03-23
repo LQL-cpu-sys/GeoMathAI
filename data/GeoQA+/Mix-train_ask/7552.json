@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728\u25b3ABC\u4e2d,\u82e5DE\u2225BC,AD=3cm,DB=6cm,DE=4cm,\u5219BC=()\u9009\u9879\uff1a['8cm', '10cm', '11cm', '12cm']",
+    "decision": "",
+    "answer": "\u89e3:\u2235DE\u2225BC,\u2234\u25b3ADE\u223d\u25b3ABC,\u2234AD:AB=DE:BC,\u5373\\frac{3}{3+6}=\\frac{4}{BC},\u89e3\u5f97:BC=12cm,\u6545\u9009:D\uff0e",
+    "ans_choice": "12"
+}

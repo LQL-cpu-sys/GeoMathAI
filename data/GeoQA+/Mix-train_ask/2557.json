@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728Rt\u25b3ABC\u4e2d,\u2220C=90\u00b0,AB=5,AC=4,\u5219sinA\u7684\u503c\u662f()\u9009\u9879\uff1a['\\\\frac{4}{3}', '\\\\frac{3}{4}', '\\\\frac{3}{5}', '\\\\frac{4}{5}']",
+    "decision": "",
+    "answer": "\u89e3:\u5728Rt\u25b3ABC\u4e2d,\u2220C=90\u00b0,AB=5,AC=4,\n\u6839\u636e\u52fe\u80a1\u5b9a\u7406\u5f97:BC=\u221a{5^{2}-4^{2}}=3,\n\u5219sinA=\\frac{BC}{AB}=\\frac{3}{5},\n\u6545\u9009:C\uff0e",
+    "ans_choice": "\\frac{3}{5}"
+}

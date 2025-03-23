@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,PA\u4e3a\u2299O\u7684\u5207\u7ebf,A\u4e3a\u5207\u70b9,PO\u4ea4\u2299O\u4e8e\u70b9B,PA=3,OA=4,\u5219cos\u2220APO\u7684\u503c\u4e3a()\u9009\u9879\uff1a['\\\\frac{3}{4}', '\\\\frac{3}{5}', '\\\\frac{4}{5}', '\\\\frac{4}{3}']",
+    "decision": "",
+    "answer": "\u89e3:\u2235PA\u4e3a\u2299O\u7684\u5207\u7ebf,A\u4e3a\u5207\u70b9,PO\u4ea4\u2299O\u4e8e\u70b9B,\u2234OA\u22a5AP\uff0e\u2234OP=\u221a{PA^{2}+OA^{2}}=\u221a{3^{2}+4^{2}}=5\uff0e\u2234cos\u2220APO=\\frac{AP}{OP}=\\frac{3}{5}\uff0e\u6545\u9009:B\uff0e",
+    "ans_choice": "\\frac{3}{5}"
+}

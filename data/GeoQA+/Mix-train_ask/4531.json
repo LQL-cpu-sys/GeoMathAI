@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u25b3ABC\u4e2d,DE\u2225BC,\\frac{AD}{AB}=\\frac{1}{2},AE=2cm,\u5219AC\u7684\u957f\u662f()\u9009\u9879\uff1a['8cm', '6cm', '4cm', '2cm']",
+    "decision": "",
+    "answer": "\u89e3:\u2235DE\u2225BC,\u2234\\frac{AD}{AB}=\\frac{AE}{AC}=\\frac{1}{2},\u2235AE=2,\u2234AC=4(cm)\u6545\u9009:C\uff0e",
+    "ans_choice": "4"
+}

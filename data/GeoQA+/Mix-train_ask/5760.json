@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u25b1ABCD\u7684\u5bf9\u89d2\u7ebfAC\u4e0eBD\u76f8\u4ea4\u4e8e\u70b9O,AC\u22a5BC,\u4e14AB=10,AD=6,\u5219OB\u7684\u957f\u5ea6\u4e3a()\u9009\u9879\uff1a['2\u221a{13}', '4', '8', '4\u221a{13}']",
+    "decision": "",
+    "answer": "\u89e3:\u2235\u56db\u8fb9\u5f62ABCD\u662f\u5e73\u884c\u56db\u8fb9\u5f62,\u2234BC=AD=6,OA=OC,\u2235AC\u22a5BC,AB=10,\u2234\u221a{AB^{2}-BC^{2}}=\u221a{10^{2}-6^{2}}=8,\u2234AO=CO=\\frac{1}{2}AC=4,\u2234OB=\u221a{BC^{2}+0c^{2}}=\u221a{6^{2}+4^{2}}=2\u221a{13}\uff1b\u6545\u9009:A\uff0e",
+    "ans_choice": "2\\sqrt{13}"
+}

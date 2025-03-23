@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728\u5c71\u5730\u4e0a\u79cd\u6811,\u5df2\u77e5\u2220A=30\u00b0,AC=3\u7c73,\u5219\u76f8\u90bb\u4e24\u682a\u6811\u7684\u5761\u9762\u8ddd\u79bbAB\u662f()\u9009\u9879\uff1a['6\u7c73', '\u221a{3}\u7c73', '2\u221a{3}\u7c73', '2\u221a{2}\u7c73']",
+    "decision": "",
+    "answer": "\u89e3:cos30\u00b0=\\frac{3}{AB},\u2234AB=2\u221a{3}\uff0e\u6545\u9009:C\uff0e",
+    "ans_choice": "2\\sqrt{3}"
+}

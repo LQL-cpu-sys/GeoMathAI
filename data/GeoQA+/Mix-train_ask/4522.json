@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5df2\u77e5BE\u2225CF\u2225DG,AB:BC:CD=2:1:3,\u82e5AE=4,\u5219EG\u7684\u957f\u662f()\u9009\u9879\uff1a['2', '4', '8', '12']",
+    "decision": "",
+    "answer": "\u89e3:\u2235BE\u2225CF\u2225DG,AB:BC:CD=2:1:3,\u2234\\frac{AB}{BD}=\\frac{AE}{EG}=\\frac{2}{4}=\\frac{1}{2},\u2235AE=4,\u2234EG=8,\u6545\u9009:C\uff0e",
+    "ans_choice": "8"
+}

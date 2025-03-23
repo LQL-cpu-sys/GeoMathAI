@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,Rt\u25b3ABC,\u2220C=90\u00b0,AB=13,BC=5,\u5219\\cosB\u7684\u503c\u4e3a()\u9009\u9879\uff1a['\\\\frac{5}{13}', '\\\\frac{12}{13}', '\\\\frac{5}{12}', '\\\\frac{13}{3}']",
+    "decision": "",
+    "answer": "\u89e3:\\cosB=\\frac{BC}{AB}=\\frac{5}{13}\uff0e\n\u6545\u9009:A\uff0e",
+    "ans_choice": "\\frac{5}{13}"
+}

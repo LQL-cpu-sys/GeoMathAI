@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728Rt\u25b3ABC\u4e2d,\u2220C=90\u00b0,AB=6,\\cosB=\\frac{2}{3},\u5219BC\u7684\u957f\u4e3a()\u9009\u9879\uff1a['4', '2\u221a{5}', '\\\\frac{18\u221a{13}}{13}', '\\\\frac{12\u221a{13}}{13}']",
+    "decision": "",
+    "answer": "\u89e3:\u2235\\cosB=\\frac{2}{3},\u2234\\frac{CB}{AB}=\\frac{2}{3},\u2235AB=6,\u2234CB=\\frac{2}{3}\u00d76=4,\u6545\u9009:A\uff0e",
+    "ans_choice": "4"
+}

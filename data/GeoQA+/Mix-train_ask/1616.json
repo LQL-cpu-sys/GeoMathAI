@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u25a1ABCD\u4e2d,\u2220C=108\u00b0,BE\u5e73\u5206\u2220ABC,\u5219\u2220AEB\u7b49\u4e8e()\u9009\u9879\uff1a['18\u00b0', '36\u00b0', '72\u00b0', '108\u00b0']",
+    "decision": "",
+    "answer": "\u89e3:\u2235\\parallelogramABCD\u4e2d,\u2220C=108\u00b0,\u2234\u2220ABC=180\u00b0-108\u00b0=72\u00b0\u53c8\u2235BE\u5e73\u5206\u2220ABC,\u2234\u2220ABE=\u2220CBE=36\u00b0\u53c8\u2235\u2220AEB=\u2220CBE\u2234\u2220AEB=36\u00b0\u6545\u7b54\u6848\u4e3aB.",
+    "ans_choice": "36"
+}

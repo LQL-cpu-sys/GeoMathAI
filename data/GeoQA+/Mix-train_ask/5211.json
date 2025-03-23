@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u534a\u5f84\u4e3a10\u7684\u5706\u4e2d,\u5f26AB\u5782\u76f4\u5e73\u5206\u534a\u5f84OC,\u5219\u5f26AB\u7684\u957f\u4e3a()\u9009\u9879\uff1a['5', '5\u221a{3}', '10', '10\u221a{3}']",
+    "decision": "",
+    "answer": "\u3010\u89e3\u7b54\u3011\u89e3:\u8fde\u63a5OA,\u2235\u2299O\u7684\u534a\u5f84\u662f10,\u5f26AB\u5782\u76f4\u5e73\u5206\u534a\u5f84OC,\u2234OM=\\frac{1}{2}\u00d710=5,AM=\\frac{1}{2}AB,\u5728Rt\u25b3AOM\u4e2d,\u2235OA=10,OM=5,\u2234AM=\u221a{OA\u00b2-OM\u00b2}=\u221a{10\u00b2-5\u00b2}=5\u221a{3},\u2234AB=2AM=2\u00d75\u221a{3}=10\u221a{3}\uff0e",
+    "ans_choice": "10\\sqrt{3}"
+}

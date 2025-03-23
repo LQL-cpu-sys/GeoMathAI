@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728\u25b3ABC\u4e2d,\u2220BAC=90\u00b0,AD\u22a5BC\u4e8eD,\u82e5AB=3,AC=4,\u5219sin\u2220DAC\u7684\u503c\u4e3a()\u9009\u9879\uff1a['\\\\frac{3}{4}', '\\\\frac{3}{5}', '\\\\frac{4}{5}', '\\\\frac{4}{3}']",
+    "decision": "",
+    "answer": "\u89e3:\u5728\u25b3ABC\u4e2d,\u2220BAC=90\u00b0,AB=3,AC=4,\n\u7531\u52fe\u80a1\u5b9a\u7406BC=\u221a{AB^{2}+_{AC^{2}}}=5,\n\u7531\u9762\u79ef\u516c\u5f0f\u5f97AB\u2022AC=AD\u2022BC,\u2234AD=\\frac{12}{5},\u2234CD=\u221a{AC^{2}-AD^{2}}=3.2,\u2234sin\u2220DAC=\\frac{DC}{AC}=0.8=\\frac{4}{5}\uff0e\n\u6545\u9009:C\uff0e",
+    "ans_choice": "\\frac{4}{5}"
+}

@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5df2\u77e5DB\u22a5AE\u4e8eB,DC\u22a5AF\u4e8eC,\u4e14DB=DC,\u2220BAC=40\u00b0,\u2220ADG=130\u00b0,\u5219\u2220DGF=()\u9009\u9879\uff1a['130\u00b0', '150\u00b0', '100\u00b0', '140\u00b0']",
+    "decision": "",
+    "answer": "\u2235DB\u22a5AE,DC\u22a5AF,DB=DC,\u2234\u2220GAD=\u2220BAD=\\frac{1}{2}\u2220BAC=20^{\u00b0}\u2234\u2220DGF=\u2220GAD+\u2220ADG=20\u00b0+130\u00b0=150\u00b0\u6545\u9009B.",
+    "ans_choice": "150"
+}

@@ -1,0 +1,8 @@
+{
+    "query": "\u5982\u56fe\uff0c\u5df2\u77e5\u25b3ABC\u223d\u25b3BDC\uff0c\u5176\u4e2dAC\uff1d4\uff0cCD\uff1d2\uff0c\u5219BC\uff1d\uff08\uff09\u9009\u9879\uff1a['2', '2\u221a{2}', '2\u221a{3}', '4']",
+    "decision": "",
+    "answer": "\u2235\u25b3ABC\u223d\u25b3BDC\uff0c\u2234\\frac{BC}{AC}=\\frac{CD}{BC}\uff0c\u2235AC\uff1d4\uff0cCD\uff1d2\uff0c\u2234BC2\uff1dAC2CD\uff1d4\u00d72\uff1d8\uff0c\u2234BC\uff1d2\u221a{2}\uff0e\u6545\u9009\uff1aB\uff0e",
+    "ans_choice": [
+        "2\u221a{2}"
+    ]
+}

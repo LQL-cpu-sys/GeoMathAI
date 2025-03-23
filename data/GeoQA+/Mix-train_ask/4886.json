@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,AF\u2225BE\u2225CD,\u4e14AB=1,BC=2.5,ED=3,\u5219FE\u7684\u957f\u5ea6\u4e3a()\u9009\u9879\uff1a['2', '1', '1.2', '1.5']",
+    "decision": "",
+    "answer": "\u89e3:\u2235AF\u2225BE\u2225CD,\u2234\\frac{AB}{BC}=\\frac{EF}{ED},\u2234\\frac{1}{2.5}=\\frac{EF}{3},\u2234EF=1.2,\u6545\u9009:C\uff0e",
+    "ans_choice": "1.2"
+}

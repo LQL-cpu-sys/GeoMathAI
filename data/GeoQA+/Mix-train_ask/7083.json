@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728\u25b3ABC\u4e2d,\u2220C=90\u00b0,BC=5,AC=12,\u5219cosA\u7b49\u4e8e()\u9009\u9879\uff1a['\\\\frac{5}{12}', '\\\\frac{5}{13}', '\\\\frac{12}{5}', '\\\\frac{12}{13}']",
+    "decision": "",
+    "answer": "\u89e3:\u2235\u5728\u25b3ABC\u4e2d,\u2220C=90\u00b0,BC=5,AC=12,\u2234AC=\u221a{12\u00b2+5\u00b2}=13,cosA=\\frac{AC}{AB}=\\frac{12}{13}\uff0e\u6545\u9009:D\uff0e",
+    "ans_choice": "\\frac{12}{13}"
+}

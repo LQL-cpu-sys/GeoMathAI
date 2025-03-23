@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728\u25b3ABC\u4e2d,\u2220C=90\u00b0,AB=5,AC=4,\u5219sinA\u7684\u503c\u662f()\u9009\u9879\uff1a['\\\\frac{3}{4}', '\\\\frac{5}{3}', '\\\\frac{4}{5}', '\\\\frac{3}{5}']",
+    "decision": "",
+    "answer": "\u89e3:\u2235\u2220C=90\u00b0,AB=5,AC=4,\u2234BC=\u221a{BC^{2}+AC^{2}}=3,\u2234sinA=\\frac{BC}{AB}=\\frac{3}{5}\uff0e\n\u6545\u9009:D\uff0e",
+    "ans_choice": "\\frac{3}{5}"
+}

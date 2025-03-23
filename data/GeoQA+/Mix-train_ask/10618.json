@@ -1,0 +1,8 @@
+{
+    "query": "\u5982\u56fe\uff0c\u25b3ABC\u7684\u9876\u70b9\u5728\u6b63\u65b9\u5f62\u7f51\u683c\u7684\u683c\u70b9\u4e0a\uff0c\u5219sinA\u7684\u503c\u4e3a\uff08\uff09\u9009\u9879\uff1a['\\\\frac{2}{3}', '\\\\frac{3\u221a2}{5}', '\\\\frac{3\u221a13}{13}', '\\\\frac{2\u221a2}{13}']",
+    "decision": "",
+    "answer": "\u8fc7\u70b9B\u4f5cBD\u22a5AC\uff0c\u5782\u8db3\u4e3aD\uff0e\u7531\u56fe\u53ef\u77e5\uff0cBD\uff1d3\uff0cAD\uff1d2\uff0cAB\uff1d\u221a{32+22}\uff1d\u221a13\uff0c\u2234sinA\uff1d\\frac{BD}{AB}\uff1d\\frac{3}{\u221a13}\uff1d\\frac{3\u221a13}{13}\uff0e\u6545\u9009\uff1aC\uff0e",
+    "ans_choice": [
+        "\\frac{3\u221a13}{13}"
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "query": "\u5df2\u77e5:\u5982\u56fe,BC:AB=1:2,\u5ef6\u957fAB\u5230B1,\u4f7fAB1=2AB,\u5ef6\u957fAC\u5230AC1,\u4f7fAC1=2AC,\u5219sinA\u7684\u503c\u662f()\u9009\u9879\uff1a['1', '\\\\frac{1}{2}', '\\\\frac{1}{4}', '\u65e0\u6cd5\u5224\u65ad']",
+    "decision": "",
+    "answer": "\u89e3:\u7531\u56fe\u77e5,\u5728\u76f4\u89d2\u4e09\u89d2\u5f62\u4e2d,sinA=\\frac{BC}{AB}=\\frac{1}{2}\uff0e\n\u6545\u9009:B\uff0e",
+    "ans_choice": "\\frac{1}{2}"
+}

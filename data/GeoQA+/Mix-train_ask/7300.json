@@ -1,0 +1,6 @@
+{
+    "query": "\u67d0\u6cb3\u5824\u6a2a\u65ad\u9762\u5982\u56fe\u6240\u793a,\u6cb3\u5824\u9ad8BC=8m,\u8fce\u6c34\u5761\u5761\u89d2\u2220BAC=30\u00b0,\u5219AB\u7684\u957f\u4e3a()\u9009\u9879\uff1a['16m', '6\u221a{3}m', '8\u221a{3}m', '7\u221a{3}m']",
+    "decision": "",
+    "answer": "\u89e3:\u2235\u8fce\u6c34\u5761\u5761\u89d2\u2220BAC=30\u00b0,\u6cb3\u5824\u9ad8BC=8m,\u2234sin30\u00b0=\\frac{BC}{AB},\u2234AB=\\frac{BC}{sin30{^\u00b0}}=16(m)\uff0e\u6545\u9009:A\uff0e",
+    "ans_choice": "16"
+}

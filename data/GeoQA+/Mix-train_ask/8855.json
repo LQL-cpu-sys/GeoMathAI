@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u2299O\u7684\u76f4\u5f84AB=8,OP\u22a5\u5f26BC\u4e8e\u70b9P,OP=2,\u5219\u5f26BC\u7684\u957f\u662f()\u9009\u9879\uff1a['2\u221a{3}', '4', '4\u221a{3}', '8']",
+    "decision": "",
+    "answer": "\u89e3:\u2235\u2299O\u7684\u76f4\u5f84AB=8,\u2234OB=4,\u2235OP\u22a5\u5f26BC\u4e8e\u70b9P,OP=2,\u2234PB=\u221a{OB\u00b2-OP\u00b2}=\u221a{4\u00b2-2\u00b2}=2\u221a{3},\u2234BC=4\u221a{3},\u6545\u9009:C\uff0e",
+    "ans_choice": "4\\sqrt{3}"
+}

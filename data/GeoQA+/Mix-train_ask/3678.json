@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u25b3ABC\u5185\u63a5\u4e8e\u2299O,\u2220OCA=38\u00b0,\u5219\u2220ABC\u7684\u5ea6\u6570\u662f()\u9009\u9879\uff1a['38\u00b0', '51\u00b0', '52\u00b0', '76\u00b0']",
+    "decision": "",
+    "answer": "\u89e3:\u2235OA=OC\u2234\u2220OCA=\u2220OAC=38\u00b0\u2234\u2220AOC=(180-38-38)\u00b0=104\u00b0\u2235\u2220AOC=2\u2220ABC\u2234\u2220ABC=52\u00b0\n\u6545\u9009:C\uff0e",
+    "ans_choice": "52"
+}

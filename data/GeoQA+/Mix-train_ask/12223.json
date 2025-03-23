@@ -1,0 +1,8 @@
+{
+    "query": "\u5982\u56fe\uff0cBE\u4e0eCD\u4ea4\u4e8e\u70b9A\uff0c\u2220C\uff1d\u2220E\uff0cAC\uff1d2\uff0cBC\uff1d4\uff0cAE\uff1d1.5\uff0c\u5219DE\uff1d\uff08\uff09\u9009\u9879\uff1a['2', '3', '3.5', '4']",
+    "decision": "",
+    "answer": "\u2235\u2220C\uff1d\u2220E\uff0c\u2220CAB\uff1d\u2220DAE\uff0c\u2234\u25b3CAB\u223d\u25b3EAD\uff0c\u2234\\frac{AC}{AE}=\\frac{BC}{DE}\uff0c\u2234\\frac{2}{1.5}=\\frac{4}{DE}\uff0c\u2234DE\uff1d3\uff0e\u6545\u9009\uff1aB\uff0e",
+    "ans_choice": [
+        "3"
+    ]
+}

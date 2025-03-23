@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u6247\u5f62AOB\u7684\u534a\u5f84\u4e3a1,\u2220AOB=90\u00b0,\u4ee5AB\u4e3a\u76f4\u5f84\u753b\u534a\u5706,\u5219\u56fe\u4e2d\u9634\u5f71\u90e8\u5206\u7684\u9762\u79ef\u4e3a()\u9009\u9879\uff1a['\\\\frac{1}{4}\u03c0', '\u03c0-\\\\frac{1}{2}', '\\\\frac{1}{2}', '\\\\frac{1}{4}\u03c0+\\\\frac{1}{2}']",
+    "decision": "",
+    "answer": "\u89e3:\u5728Rt\u25b3AOB\u4e2d,AB=\u221a{AO^{2}+0B^{2}}=\u221a{2},S~\u534a\u5706~=\\frac{1}{2}\u03c0\u00d7(\\frac{AB}{2})\u00b2=\\frac{1}{4}\u03c0,S~\u25b3AOB~=\\frac{1}{2}OB\u00d7OA=\\frac{1}{2},S~\u6247\u5f62OBA~=\\frac{90\u03c0\u00d71^{2}}{360}=\\frac{\u03c0}{4},\u6545S_{\u9634\u5f71}=S~\u534a\u5706~+S~\u25b3AOB~-S~\u6247\u5f62AOB~=\\frac{1}{2}\uff0e\u6545\u9009:C\uff0e",
+    "ans_choice": "\\frac{1}{2}"
+}

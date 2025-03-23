@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u25b3ABC\u4e2d,\\frac{AG}{AH}=\\frac{DE}{BC},\u4e14DE=12,BC=15,GH=4,\u5219AH\u7684\u957f\u4e3a()\u9009\u9879\uff1a['12', '16', '20', '24']",
+    "decision": "",
+    "answer": "\u89e3:\u8bbeAH=x,\u5219AG=x-4\uff0e\u2235\\frac{AG}{AH}=\\frac{DE}{BC},\u2234\\frac{x-4}{x}=\\frac{12}{15},\u89e3\u5f97x=20,\u7ecf\u68c0\u9a8cx=20\u662f\u5206\u5f0f\u65b9\u7a0b\u7684\u89e3,\u6545\u9009:C\uff0e",
+    "ans_choice": "20"
+}

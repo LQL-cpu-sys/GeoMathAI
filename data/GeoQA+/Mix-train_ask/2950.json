@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728Rt\u25b3ABC\u4e2d,\u2220C=90\u00b0,AC=4,tanA=\\frac{1}{2},\u5219BC\u7684\u957f\u5ea6\u4e3a()\u9009\u9879\uff1a['2', '8', '4\u221a{3}', '4\u221a{5}']",
+    "decision": "",
+    "answer": "\u89e3:\u2235\u5728Rt\u25b3ABC\u4e2d,\u2220C=90\u00b0,AC=4,\u2234tanA=\\frac{1}{2}=\\frac{BC}{AC}=\\frac{BC}{4},\u2234BC=2\uff0e\n\u6545\u9009:A\uff0e",
+    "ans_choice": "2"
+}

@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728\u76f4\u89d2\u25b3ABC\u4e2d,\u2220C=90\u00b0,\u82e5AB=5,AC=4,\u5219sinB=()\u9009\u9879\uff1a['\\\\frac{3}{5}', '\\\\frac{4}{5}', '\\\\frac{3}{4}', '\\\\frac{4}{3}']",
+    "decision": "",
+    "answer": "\u89e3:\u7531\u6b63\u5f26\u7684\u5b9a\u4e49\u77e5,sinB=\\frac{AC}{AB}=\\frac{4}{5}\uff0e\u6545\u9009:B\uff0e",
+    "ans_choice": "\\frac{4}{5}"
+}

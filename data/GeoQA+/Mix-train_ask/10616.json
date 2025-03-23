@@ -1,0 +1,8 @@
+{
+    "query": "\u5982\u56fe\uff0c\u5df2\u77e5Rt\u25b3ABC\u4e2d\uff0c\u2220ACB\uff1d90\u00b0\uff0cAC\uff1aAB\uff1d3:5\uff0c\u5219tanA\u7684\u503c\u4e3a\uff08\uff09\u9009\u9879\uff1a['0.6', '\\\\frac{4}{3}', '\\\\frac{3}{4}', '0.8']",
+    "decision": "",
+    "answer": "\u2235\u2220ACB\uff1d90\u00b0\uff0cAC\uff1aAB\uff1d3\uff1a5\uff0c\u8bbeAC\uff1d3x\uff0cAB\uff1d5x\uff0c\u2234BC\uff1d\u221a{AB2-AC2}=\u221a{(5x) 2-(3x) 2}\uff1d4x\uff0c\u2234tanA\uff1d\\frac{BC}{AC}\uff1d\\frac{4x}{3x}\uff1d\\frac{4}{3}\uff0e\u6545\u9009\uff1aB\uff0e",
+    "ans_choice": [
+        "\\frac{4}{3}"
+    ]
+}

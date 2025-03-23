@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,AB\u2225CD,AD\u4e0eBC\u76f8\u4ea4\u4e8e\u70b9O,\\frac{BO}{OC}=\\frac{2}{3},AD=10,\u5219OA\u7684\u957f\u4e3a()\u9009\u9879\uff1a['3', '4', '5', '6']",
+    "decision": "",
+    "answer": "\u89e3:\u2235AB\u2225CD,\u2234\\frac{OA}{OD}=\\frac{OB}{OC}=\\frac{2}{3},\u5373\\frac{OA}{10-OA}=\\frac{2}{3},\u89e3\u5f97,AO=4,\u6545\u9009:B\uff0e",
+    "ans_choice": "4"
+}

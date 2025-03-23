@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728\u77e9\u5f62ABCD\u4e2d,\u70b9E\u4e3aAB\u7684\u4e2d\u70b9,\u70b9F\u4e3aAD\u4e0a\u4e00\u70b9,EF\u4ea4AC\u4e8e\u70b9G,AF=4cm,DF=8cm,AG=5cm,\u5219AC\u7684\u957f\u4e3a()\u9009\u9879\uff1a['25cm', '15cm', '12.5cm', '7.5cm']",
+    "decision": "",
+    "answer": "\u89e3:\u2235\u56db\u8fb9\u5f62ABCD\u662f\u77e9\u5f62,\u2234BC=AD=12cm,BC\u2225AD\uff0e\u2234\u2220EAF=\u2220EBH,\u2220AFE=\u2220BHE,\u5728\u25b3AFE\u4e0e\u25b3BHE\u4e2d\u2265ft\\{\\begin{matrix}\u2220EAF=\u2220EBH\\\\\u2220AFE=\u2220BHE\\\\AE=BE\\\\\\end{matrix}\\right.\\\u2234\u25b3AFE\u224c\u25b3BHE(AAS)\u2234BH=AF=4cm\uff0e\u2235BC\u2225AD,\u2234\\frac{AG}{CG}=\\frac{AF}{HC},\u5373\\frac{5}{CG}=\\frac{4}{16}\u5219CG=20,\u5219AC=AG+CG=25(cm)\uff0e\u6545\u9009:A\uff0e",
+    "ans_choice": "25"
+}

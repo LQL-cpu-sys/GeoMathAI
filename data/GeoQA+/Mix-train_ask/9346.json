@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u25b1ABCD\u7684\u5468\u957f\u4e3a36,\u5bf9\u89d2\u7ebfAC\u3001BD\u76f8\u4ea4\u4e8e\u70b9O\uff0e\u70b9E\u662fCD\u7684\u4e2d\u70b9,BD=14,\u5219\u25b3DOE\u7684\u5468\u957f\u4e3a()\u9009\u9879\uff1a['50', '32', '16', '9']",
+    "decision": "",
+    "answer": "\u89e3:\u2235\u56db\u8fb9\u5f62ABCD\u662f\u5e73\u884c\u56db\u8fb9\u5f62,\u2234AB=CD,AD=BC,OB=OD=\\frac{1}{2}BD=7,\u2235\u25b1ABCD\u7684\u5468\u957f\u4e3a36,\u2234CD+BC=18,\u2235\u70b9E\u662fCD\u7684\u4e2d\u70b9,\u2234DE=\\frac{1}{2}CD,OE\u662f\u25b3BCD\u7684\u4e2d\u4f4d\u7ebf,\u2234OE=\\frac{1}{2}BC,\u2234DE+OE=\\frac{1}{2}(CD+BC)=9,\u2234\u25b3DOE\u7684\u5468\u957f=OD+DE+OE=7+9=16\uff1b\u6545\u9009:C\uff0e",
+    "ans_choice": "16"
+}

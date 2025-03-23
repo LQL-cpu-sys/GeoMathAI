@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u76f4\u5f84\u4e3a6\u7684\u534a\u5706\u7ed5\u76f4\u5f84AB\u7684\u7aef\u70b9A\u987a\u65f6\u9488\u65cb\u8f6c45\u00b0,\u70b9B\u7684\u5bf9\u5e94\u70b9\u4e3aB\u2032,\u5219\u56fe\u4e2d\u9634\u5f71\u90e8\u5206\u7684\u9762\u79ef\u662f()\u9009\u9879\uff1a['\\\\frac{3}{4}\u03c0', '\\\\frac{9}{4}\u03c0', '\\\\frac{9}{2}\u03c0', '9\u03c0']",
+    "decision": "",
+    "answer": "\u89e3:S_{\u9634\u5f71}=S~\u534a\u5706AB~+S~\u6247\u5f62BAB\u2032~-S~\u534a\u5706AB\u2032~=S~\u6247\u5f62BAB\u2032~=\\frac{45\u03c0\\cdot6^{2}}{360}=\\frac{9}{2}\u03c0,\u6545\u9009:C\uff0e",
+    "ans_choice": "\\frac{9}{2}\\pi"
+}

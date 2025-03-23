@@ -1,0 +1,6 @@
+{
+    "query": "\u5982\u56fe,\u5728Rt\u25b3ABC\u4e2d,\u2220C=90\u00b0,BC=6,AC=8,\u90a3\u4e48sinA\u7684\u503c\u7b49\u4e8e()\u9009\u9879\uff1a['\\\\frac{3}{4}', '\\\\frac{4}{3}', '\\\\frac{3}{5}', '\\\\frac{4}{5}']",
+    "decision": "",
+    "answer": "\u89e3:\u7531\u52fe\u80a1\u5b9a\u7406,\u5f97\nAB=\u221a{AC^{2}+BC^{2}}=10\uff0e\n\u7531\u6b63\u5f26\u51fd\u6570\u7684\u5b9a\u4e49,\u5f97\nsinA=\\frac{BC}{AB}=\\frac{6}{10}=\\frac{3}{5},\n\u6545\u9009:C\uff0e",
+    "ans_choice": "\\frac{3}{5}"
+}

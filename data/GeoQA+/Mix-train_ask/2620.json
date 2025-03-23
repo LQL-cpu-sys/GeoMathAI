@@ -1,0 +1,6 @@
+{
+    "query": "\u5728Rt\u25b3ABC\u4e2d,\u2220C=90\u00b0,a=1,c=4,\u5219sinA\u7684\u503c\u662f()\u9009\u9879\uff1a['\\\\frac{\u221a{15}}{15}', '\\\\frac{1}{4}', '\\\\frac{1}{3}', '\\\\frac{\u221a{15}}{4}']",
+    "decision": "",
+    "answer": "\u89e3:\u6839\u636e\u9898\u610f,\n\u7531\u4e09\u89d2\u51fd\u6570\u7684\u5b9a\u4e49\u53ef\u5f97sinA=\\frac{BC}{AB},\n\u5219sinA=\\frac{1}{4}\uff1b\n\u6545\u9009:B\uff0e",
+    "ans_choice": "\\frac{1}{4}"
+}

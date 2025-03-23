@@ -49,23 +49,22 @@ streamlit run app.py
 ## 项目结构
 ```
 GeoMathAI/
-├── data/                  # 数据文件夹
-│   ├── GeoQA+/            # GeoQA+ 数据集
-│   │   └── decision.json  # 决策文件
-│   └── static/            # 静态资源文件夹
-├── utils/                 # 工具函数文件夹
-│   ├── __pycache__/       # Python 编译缓存文件夹
-│   ├── __init__.py        # 初始化文件
-│   ├── decision_generation.py  # 决策生成模块
+├── data/                          # 数据文件夹
+│   ├── GeoQA+/                    # GeoQA+ 数据集
+│   │   └── decision.json          # 决策文件
+│   └── static/                    # 静态资源文件夹
+├── utils/                         # 工具函数文件夹
+│   ├── __pycache__/               # Python 编译缓存文件夹
+│   ├── __init__.py                # 初始化文件
+│   ├── decision_generation.py     # 决策生成模块
 │   ├── execute_modularization.py  # 模块化执行模块
-│   ├── execute_synthesis.py  # 综合执行模块
-│   ├── prompt_pre.py      # 提示预处理模块
-│   ├── prompt.py          # 提示模板模块
-│   ├── split_task.py      # 任务拆分模块
-├── app.py                 # Streamlit 应用入口
-├── demo.py                # 演示脚本
-├── index.html             # 网页入口文件
-├── logo.png               # 项目 Logo
-├── README.md              # 项目说明文件
-└── temp_image.png         # 处理问题时的临时图像文件
+│   ├── execute_synthesis.py       # 综合执行模块
+│   ├── prompt.py                  # 提示模板模块
+│   ├── split_task.py              # 任务拆分模块
+├── app.py                         # Streamlit 应用入口
+├── demo.py                        # 演示脚本
+├── index.html                     # 网页入口文件
+├── logo.png                       # 项目 Logo
+├── README.md                      # 项目说明文件
+└── temp_image.png                 # 处理问题时的临时图像文件
 ```

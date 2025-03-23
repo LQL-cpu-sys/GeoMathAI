@@ -13,11 +13,10 @@
 ## 安装与使用
 
 ### 依赖项
-确保已安装以下依赖项：
 
 ```bash
 pip install openai dashscope pillow numpy transformers datasets streamlit
-
+```
 使用方法
 1.克隆项目：
 git clone https://github.com/yourusername/GeoMathAI.git

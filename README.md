@@ -17,19 +17,23 @@
 ```bash
 pip install openai dashscope pillow numpy transformers datasets streamlit
 ```
+
 使用方法
 1.克隆项目：
+```
 git clone https://github.com/yourusername/GeoMathAI.git
 cd GeoMathAI
-
+```
 2.配置 API 密钥：
 在 config.py 文件中设置你的 OpenAI 和 Dashscope API 密钥：
+```
 # config.py
 OPENAI_API_KEY = "your_openai_api_key"  # 替换为你的 OpenAI API 密钥
 DASHSCOPE_API_KEY = "your_dashscope_api_key"  # 替换为你的 DashscopeAPI密钥
-
+```
 3.运行示例：
 运行 app.py 文件来执行示例问题:
+```
 streamlit run app.py
 ```
 
